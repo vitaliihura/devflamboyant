@@ -23,16 +23,16 @@
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
 define( 'WPCACHEHOME', '/var/www/vhosts/flamboyant-carver.65-108-229-32.plesk.page/httpdocs/wp-content/plugins/wp-super-cache/' );
-define( 'DB_NAME', 'wp_ntv24' );
+define( 'DB_NAME', 'devflamboyant' );
 
 /** Database username */
-define( 'DB_USER', 'wp_o7c66' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'wK&c5JMxkx0~3l!i' );
+define( 'DB_PASSWORD', '0000' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost:3306' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
