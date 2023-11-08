@@ -1,0 +1,251 @@
+# Translation of Plugins - PDF Embedder - Development (trunk) in Slovenian
+# This file is distributed under the same license as the Plugins - PDF Embedder - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-29 11:05:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 100 == 1) ? 0 : ((n % 100 == 2) ? 1 : ((n % 100 == 3 || n % 100 == 4) ? 2 : 3));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sl_SI\n"
+"Project-Id-Version: Plugins - PDF Embedder - Development (trunk)\n"
+
+#: pdf_embedder.php:121
+msgid "Continous Page Scrolling"
+msgstr "Neprekinjeno drsenje strani"
+
+#: pdf_embedder.php:123
+msgid "Allow user to scroll up/down between all pages in the PDF"
+msgstr "Dovoli uporabniku pregledovanje gor/dol po PDFju"
+
+#: pdf_embedder.php:151
+msgid "The user can also touch and scroll continuously between all pages of the PDF which is much easier than clicking the next/prev buttons to navigate."
+msgstr "Obiskovalec lahko tapne in zvezno drsi med stranmi PDF dokumenta. To je veliko lažje kot klikanje na naprej/nazaj gumbe."
+
+#: core/core_pdf_embedder.php:532
+msgid "Optionally add a watermark containing the user's name or email address to discourage sharing of screenshots."
+msgstr "Po želji lahko dodaš vodni odtis s tvojim imenom ali e-naslovom in tako odvrneš obiskovalce od deljenja zaslonskih posnetkov."
+
+#: pdf_embedder.php:106
+msgid "External Links"
+msgstr "Zunanje povezave"
+
+#: pdf_embedder.php:108
+msgid "Open links in a new browser tab/window"
+msgstr "Odpri povezave v novem zavihku/strani"
+
+#: pdf_embedder.php:116
+msgid "Count number of views and downloads"
+msgstr "Štej vpoglede in prenose"
+
+#: pdf_embedder.php:101
+msgid "Provide PDF download button on toolbar"
+msgstr "Prikaži PDF prenos gumb v orodni vrstici"
+
+#: pdf_embedder.php:97
+msgid "Options only available in Premium versions"
+msgstr "Te možnosti so na voljo le v Premium različici"
+
+#: pdf_embedder.php:219
+msgid "Downloads/Views"
+msgstr "Prenosi/Ogledi"
+
+#: pdf_embedder.php:217
+msgid "Track downloads and views with <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>"
+msgstr "Sledi prenosom in vpogledom z <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>"
+
+#: pdf_embedder.php:127
+msgid "Find out more about <a href=\"%s\" target=\"_blank\">Premium Versions of the plugin on our website</a>."
+msgstr "Več informacij o <a href=\"%s\" target=\"_blank\">Premium različicah najdeš na naši spletni strani</a>."
+
+#: pdf_embedder.php:114
+msgid "Track Views/Downloads"
+msgstr "Sledi vpogledom/prenosom"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://wp-pdf.com/"
+msgstr "http://wp-pdf.com/"
+
+#: pdf_embedder.php:99
+msgid "Download Button"
+msgstr "Prenos"
+
+#: pdf_embedder.php:137
+msgid "Mobile-friendly embedding using PDF Embedder Premium"
+msgstr "Vdelava z PDF Embedder Premium je prilagojena prikazu na mobilnih napravah."
+
+#: core/core_pdf_embedder.php:671
+msgid "Settings saved"
+msgstr "Nastavitve shranjene"
+
+#: core/core_pdf_embedder.php:796
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: core/core_pdf_embedder.php:490
+msgid "Toolbar always visible"
+msgstr "Orodna vrstica vedno vidna"
+
+#: core/core_pdf_embedder.php:625
+msgid "Unspecified error"
+msgstr "Nedoločena napaka"
+
+#: core/core_pdf_embedder.php:534 pdf_embedder.php:154
+msgid "See our website <a href=\"%s\">wp-pdf.com</a> for more details and purchase options."
+msgstr "Preverite našo spletno stran <a href=\"%s\">wp-pdf.com</a> za več podrobnosti in možnosti nakupa."
+
+#: core/core_pdf_embedder.php:530
+msgid "This means that your PDF is unlikely to be shared outside your site where you have no control over who views, prints, or shares it."
+msgstr "To pomeni, da vaš PDF najverjetneje ne bo prikazan zunaj vaše strani, kjer nimate nadzora nad tem, kdo odpre, natisne ali deli PDF z drugimi."
+
+#: core/core_pdf_embedder.php:526
+msgid "Protect your PDFs using PDF Embedder Secure"
+msgstr "Zaščitite svoje PDFe z PDF Embedder Secure."
+
+#: core/core_pdf_embedder.php:508
+msgid "You can override these defaults for specific embeds by modifying the shortcodes - see <a href=\"%s\" target=\"_blank\">instructions</a>."
+msgstr "Te privzete nastavitve lahko povoziš z vdelavo popravljenih kratkih kod (shortcodes) - glej <a href=\"%s\" target=\"_blank\">navodila</a>."
+
+#: core/core_pdf_embedder.php:482 assets/js/pdfemb-blocks.js:159
+msgid "Toolbar Hover"
+msgstr "Prikaz orodne vrstice"
+
+#: core/core_pdf_embedder.php:485 assets/js/pdfemb-blocks.js:162
+msgid "Toolbar appears only on hover over document"
+msgstr "Orodna vrstica lebdi nad dokumentom"
+
+#: core/core_pdf_embedder.php:476
+msgid "Both"
+msgstr "Oboje"
+
+#: core/core_pdf_embedder.php:475
+msgid "Bottom"
+msgstr "Spodaj"
+
+#: core/core_pdf_embedder.php:464 assets/js/pdfemb-blocks.js:137
+msgid "Height"
+msgstr "Višina"
+
+#: core/core_pdf_embedder.php:474
+msgid "Top"
+msgstr "Zgoraj"
+
+#: core/core_pdf_embedder.php:472 assets/js/pdfemb-blocks.js:145
+msgid "Toolbar Location"
+msgstr "Mesto prikaza orodne vrstice"
+
+#: core/core_pdf_embedder.php:468
+msgid "Enter <b>max</b> or an integer number of pixels"
+msgstr "Vnesi <b>max</b> ali število pikslov"
+
+#: core/core_pdf_embedder.php:460 assets/js/pdfemb-blocks.js:129
+msgid "Width"
+msgstr "Širina"
+
+#: core/core_pdf_embedder.php:458
+msgid "Default Viewer Settings"
+msgstr "Privzete nastavitve ogledovalnika"
+
+#: core/core_pdf_embedder.php:428
+msgid "Save Changes"
+msgstr "Shrani spremembe"
+
+#: core/core_pdf_embedder.php:392
+msgid "Mobile"
+msgstr "Mobilno"
+
+#: core/core_pdf_embedder.php:391
+msgid "Main Settings"
+msgstr "Glavne nastavitve"
+
+#: core/core_pdf_embedder.php:137
+msgid "PDFs"
+msgstr "PDFji"
+
+#: core/core_pdf_embedder.php:137
+msgid "Manage PDFs"
+msgstr "Upravljaj PDFje"
+
+#. Plugin Name of the plugin
+#: core/core_pdf_embedder.php:332 core/core_pdf_embedder.php:337
+#: assets/js/pdfemb-blocks.js:28
+msgid "PDF Embedder"
+msgstr "PDF Embedder"
+
+#: core/core_pdf_embedder.php:452
+msgid "PDF Embedder setup"
+msgstr "Nastavitev PDF Embedder-ja"
+
+#: core/core_pdf_embedder.php:332 core/core_pdf_embedder.php:337
+msgid "PDF Embedder settings"
+msgstr "Nastavitve PDF Embedder-ja"
+
+#: core/core_pdf_embedder.php:137
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] "PDF <span class=\"count\">(%s)</span>"
+msgstr[1] "PDFja <span class=\"count\">(%s)</span>"
+msgstr[2] "PDFji <span class=\"count\">(%s)</span>"
+msgstr[3] "PDFjev <span class=\"count\">(%s)</span>"
+
+#: core/core_pdf_embedder.php:454
+msgid "To use the plugin, just embed PDFs in the same way as you would normally embed images in your posts/pages - but try with a PDF file instead."
+msgstr "Da bi uporabili ta vtičnik, samo vdelaj PDF v stran ali prispevek na enak način, kot bi običajno vdelal sliko."
+
+#: core/core_pdf_embedder.php:117
+msgid "Full Screen"
+msgstr "Čez cel zaslon"
+
+#: core/core_pdf_embedder.php:113
+msgid "Zoom In"
+msgstr "Povečaj"
+
+#: core/core_pdf_embedder.php:115
+msgid "Zoom Out"
+msgstr "Pomanjšaj"
+
+#: core/core_pdf_embedder.php:116
+msgid "Download PDF"
+msgstr "Prenos PDF"
+
+#: core/core_pdf_embedder.php:119
+msgid "Click here for more info"
+msgstr "Klikni za več informacij"
+
+#: core/core_pdf_embedder.php:118
+msgid "Error: URL to the PDF file must be on exactly the same domain as the current web page."
+msgstr "Napaka: Povezava do PDF datoteke mora biti v isti domeni, kot spletna stran, na kateri bi povezava."
+
+#: core/core_pdf_embedder.php:121
+msgid "View in Full Screen"
+msgstr "Ogled v celo zaslonskem načinu"
+
+#: core/core_pdf_embedder.php:120
+msgid "PDF page width or height are invalid"
+msgstr "Širina ali višina PDF je napačna"
+
+#: core/core_pdf_embedder.php:114 core/core_pdf_embedder.php:393
+msgid "Secure"
+msgstr "Varno"
+
+#: core/core_pdf_embedder.php:112
+msgid "Next page"
+msgstr "Naslednja stran"
+
+#: core/core_pdf_embedder.php:111
+msgid "Previous page"
+msgstr "Prejšnja stran"
+
+#: core/core_pdf_embedder.php:110
+msgid "Zoom"
+msgstr "Povečava"
+
+#: core/core_pdf_embedder.php:109
+msgid "Page"
+msgstr "Stran"
+
+#: core/core_pdf_embedder.php:108
+msgid "Loading..."
+msgstr "Nalaganje ..."

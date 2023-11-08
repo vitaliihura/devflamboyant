@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#n24tv-admin-wrap {
+  display: flex;
+}
+#n24tv-admin-left {
+  flex: 0 0 65%;
+}
+#n24tv-admin-right {
+  flex: 1;
+}
+
+#n24tv-admin-latest-posts .n24tv-remove-icon {
+    display: none;
+}
+
+ul.n24tv-post-list {
+    min-height: 40px;
+}
+ul.n24tv-post-list li {
+    padding: 5px;
+}
+
+ul.n24tv-post-list li:hover {
+    background-color: #f3f3f3;
+    cursor: move;
+}

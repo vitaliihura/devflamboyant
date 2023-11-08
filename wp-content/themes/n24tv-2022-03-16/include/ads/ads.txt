@@ -1,0 +1,2296 @@
+== front-page == 
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.NASLOVNICA */
+ado.master({id: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansiygeldrdhqu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.oglasno ozadje */
+ado.slave('adoceansiygeldrdhqu', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+<div id="adoceansivhlrgonlpp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.728x90 spodaj */
+ado.slave('adoceansivhlrgonlpp', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+<div id="adoceansisiciklhqvk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.billboard zgoraj */
+ado.slave('adoceansisiciklhqvk', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+<div id="adoceansiuajimpjocy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.300x250 desno */
+ado.slave('adoceansiuajimpjocy', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+<div id="adoceansivncjlmmlgf"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.728x90 zgoraj */
+ado.slave('adoceansivncjlmmlgf', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+<div id="adoceansilihlnoducr"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.banderola */
+ado.slave('adoceansilihlnoducr', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+<div id="adoceansilmntqmlrad"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.728x90 pod rubriko Novice */
+ado.slave('adoceansilmntqmlrad', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+<div id="adoceansiymekekfgqc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.728x90 pod rubriko _port */
+ado.slave('adoceansiymekekfgqc', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+<div id="adoceansimartbpmizm"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.300x250 spodaj */
+ado.slave('adoceansimartbpmizm', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+<div id="adoceansiyaglioomei"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.NASLOVNICA.floater */
+ado.slave('adoceansiyaglioomei', {myMaster: 'WGCqmU3GA4vLNLfOPXp7F5vd7iL_gZtSPgxbsdHYtGv.d7' });
+</script>
+
+
+
+== c:slovenija ==
+ 
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Rubrika SLOVENIJA */
+ado.master({id: '_3sFAac27VmfUPB_4iwGMVmGoypQ0ZIr9RnJeXryE1z.j7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansizokhoqjfpp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SLOVENIJA.banderola */
+ado.slave('adoceansizokhoqjfpp', {myMaster: '_3sFAac27VmfUPB_4iwGMVmGoypQ0ZIr9RnJeXryE1z.j7' });
+</script>
+
+<div id="adoceansiwprnbodkkk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SLOVENIJA.billboard zgoraj */
+ado.slave('adoceansiwprnbodkkk', {myMaster: '_3sFAac27VmfUPB_4iwGMVmGoypQ0ZIr9RnJeXryE1z.j7' });
+</script>
+
+<div id="adoceansimeliproqmg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SLOVENIJA.300x250 spodaj */
+ado.slave('adoceansimeliproqmg', {myMaster: '_3sFAac27VmfUPB_4iwGMVmGoypQ0ZIr9RnJeXryE1z.j7' });
+</script>
+
+<div id="adoceansizecpcpifrf"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SLOVENIJA.300x250 zgoraj */
+ado.slave('adoceansizecpcpifrf', {myMaster: '_3sFAac27VmfUPB_4iwGMVmGoypQ0ZIr9RnJeXryE1z.j7' });
+</script>
+
+<div id="adoceansiwfjfgmsjba"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SLOVENIJA.728x90 spodaj */
+ado.slave('adoceansiwfjfgmsjba', {myMaster: '_3sFAac27VmfUPB_4iwGMVmGoypQ0ZIr9RnJeXryE1z.j7' });
+</script>
+
+<div id="adoceansitgqljjmolv"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SLOVENIJA.728x90 zgoraj */
+ado.slave('adoceansitgqljjmolv', {myMaster: '_3sFAac27VmfUPB_4iwGMVmGoypQ0ZIr9RnJeXryE1z.j7' });
+</script>
+
+<div id="adoceansiqhhsmwftvq"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SLOVENIJA.oglasno ozadje */
+ado.slave('adoceansiqhhsmwftvq', {myMaster: '_3sFAac27VmfUPB_4iwGMVmGoypQ0ZIr9RnJeXryE1z.j7' });
+</script>
+
+<div id="adoceansiyngsorlgya"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SLOVENIJA.floater */
+ado.slave('adoceansiyngsorlgya', {myMaster: '_3sFAac27VmfUPB_4iwGMVmGoypQ0ZIr9RnJeXryE1z.j7' });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+== c:svet ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Rubrika SVET */
+ado.master({id: '9zuVcerD7RjP.8_jFEATbD107IeWoF.z2BHv5Dx2LqX.G7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansizcothoomwb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SVET.banderola */
+ado.slave('adoceansizcothoomwb', {myMaster: '9zuVcerD7RjP.8_jFEATbD107IeWoF.z2BHv5Dx2LqX.G7' });
+</script>
+
+<div id="adoceansiwdfkllircw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SVET.billboard zgoraj */
+ado.slave('adoceansiwdfkllircw', {myMaster: '9zuVcerD7RjP.8_jFEATbD107IeWoF.z2BHv5Dx2LqX.G7' });
+</script>
+
+<div id="adoceansiomribwqotu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SVET.300x250 spodaj */
+ado.slave('adoceansiomribwqotu', {myMaster: '9zuVcerD7RjP.8_jFEATbD107IeWoF.z2BHv5Dx2LqX.G7' });
+</script>
+
+<div id="adoceansilnipetktop"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SVET.300x250 zgoraj */
+ado.slave('adoceansilnipetktop', {myMaster: '9zuVcerD7RjP.8_jFEATbD107IeWoF.z2BHv5Dx2LqX.G7' });
+</script>
+
+<div id="adoceansiynpfiqeiio"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SVET.728x90 spodaj */
+ado.slave('adoceansiynpfiqeiio', {myMaster: '9zuVcerD7RjP.8_jFEATbD107IeWoF.z2BHv5Dx2LqX.G7' });
+</script>
+
+<div id="adoceansivogmlnomsj"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SVET.728x90 zgoraj */
+ado.slave('adoceansivogmlnomsj', {myMaster: '9zuVcerD7RjP.8_jFEATbD107IeWoF.z2BHv5Dx2LqX.G7' });
+</script>
+
+<div id="adoceansispnsokirce"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SVET.oglasno ozadje */
+ado.slave('adoceansispnsokirce', {myMaster: '9zuVcerD7RjP.8_jFEATbD107IeWoF.z2BHv5Dx2LqX.G7' });
+</script>
+
+<div id="adoceansispepfmppoq"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SVET.floater */
+ado.slave('adoceansispepfmppoq', {myMaster: '9zuVcerD7RjP.8_jFEATbD107IeWoF.z2BHv5Dx2LqX.G7' });
+</script>
+
+
+
+
+== c:univerzum ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Rubrika UNIVERZUM */
+ado.master({id: 'd1ngsYt8dx7PyxclFO8.30Efrlu3jBrS2Qr4Ce0Y6Mr.87', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansixhikmnjiff"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika UNIVERZUM.banderola */
+ado.slave('adoceansixhikmnjiff', {myMaster: 'd1ngsYt8dx7PyxclFO8.30Efrlu3jBrS2Qr4Ce0Y6Mr.87' });
+</script>
+
+<div id="adoceansirjghdinrvv"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika UNIVERZUM.billboard zgoraj */
+ado.slave('adoceansirjghdinrvv', {myMaster: 'd1ngsYt8dx7PyxclFO8.30Efrlu3jBrS2Qr4Ce0Y6Mr.87' });
+</script>
+
+<div id="adoceansipafjcisfdd"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika UNIVERZUM.300x250 spodaj */
+ado.slave('adoceansipafjcisfdd', {myMaster: 'd1ngsYt8dx7PyxclFO8.30Efrlu3jBrS2Qr4Ce0Y6Mr.87' });
+</script>
+
+<div id="adoceansimbmpfvlkcy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika UNIVERZUM.300x250 zgoraj */
+ado.slave('adoceansimbmpfvlkcy', {myMaster: 'd1ngsYt8dx7PyxclFO8.30Efrlu3jBrS2Qr4Ce0Y6Mr.87' });
+</script>
+
+<div id="adoceansizbdgjsfpxt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika UNIVERZUM.728x90 spodaj */
+ado.slave('adoceansizbdgjsfpxt', {myMaster: 'd1ngsYt8dx7PyxclFO8.30Efrlu3jBrS2Qr4Ce0Y6Mr.87' });
+</script>
+
+<div id="adoceansiwckmmpptwo"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika UNIVERZUM.728x90 zgoraj */
+ado.slave('adoceansiwckmmpptwo', {myMaster: 'd1ngsYt8dx7PyxclFO8.30Efrlu3jBrS2Qr4Ce0Y6Mr.87' });
+</script>
+
+<div id="adoceansitdrspmjiqn"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika UNIVERZUM.oglasno ozadje */
+ado.slave('adoceansitdrspmjiqn', {myMaster: 'd1ngsYt8dx7PyxclFO8.30Efrlu3jBrS2Qr4Ce0Y6Mr.87' });
+</script>
+
+<div id="adoceansipamfjjjuul"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika UNIVERZUM.floater */
+ado.slave('adoceansipamfjjjuul', {myMaster: 'd1ngsYt8dx7PyxclFO8.30Efrlu3jBrS2Qr4Ce0Y6Mr.87' });
+</script>
+
+
+
+== c:sport ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Rubrika _PORT */
+ado.master({id: 'QlXxYNbRDEv1.yHHFZY4jpI3w6uvTdIrflymH_bAB3v.67', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansipoqnhxhnxz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika _PORT.banderola */
+ado.slave('adoceansipoqnhxhnxz', {myMaster: 'QlXxYNbRDEv1.yHHFZY4jpI3w6uvTdIrflymH_bAB3v.67' });
+</script>
+
+<div id="adoceansimphelurrsu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika _PORT.billboard zgoraj */
+ado.slave('adoceansimphelurrsu', {myMaster: 'QlXxYNbRDEv1.yHHFZY4jpI3w6uvTdIrflymH_bAB3v.67' });
+</script>
+
+<div id="adoceansiojcqhjoium"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika _PORT.300x250 spodaj */
+ado.slave('adoceansiojcqhjoium', {myMaster: 'QlXxYNbRDEv1.yHHFZY4jpI3w6uvTdIrflymH_bAB3v.67' });
+</script>
+
+<div id="adoceansilkjglwhneh"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika _PORT.300x250 zgoraj */
+ado.slave('adoceansilkjglwhneh', {myMaster: 'QlXxYNbRDEv1.yHHFZY4jpI3w6uvTdIrflymH_bAB3v.67' });
+</script>
+
+<div id="adoceansiykqmotrrsc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika _PORT.728x90 spodaj */
+ado.slave('adoceansiykqmotrrsc', {myMaster: 'QlXxYNbRDEv1.yHHFZY4jpI3w6uvTdIrflymH_bAB3v.67' });
+</script>
+
+<div id="adoceansivlhtbrlgib"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika _PORT.728x90 zgoraj */
+ado.slave('adoceansivlhtbrlgib', {myMaster: 'QlXxYNbRDEv1.yHHFZY4jpI3w6uvTdIrflymH_bAB3v.67' });
+</script>
+
+<div id="adoceansismojfofldw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika _PORT.oglasno ozadje */
+ado.slave('adoceansismojfofldw', {myMaster: 'QlXxYNbRDEv1.yHHFZY4jpI3w6uvTdIrflymH_bAB3v.67' });
+</script>
+
+<div id="adoceansizbksptmncf"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika _PORT.floater */
+ado.slave('adoceansizbksptmncf', {myMaster: 'QlXxYNbRDEv1.yHHFZY4jpI3w6uvTdIrflymH_bAB3v.67' });
+</script>
+
+
+
+
+== c:sprosceno == 
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Rubrika SPRO__ENO */
+ado.master({id: 'pU_mJgA18oTEzRuMvY8CekTM36B9_S7NLJ6BbX4Mzy3.e7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansikeclptmnby"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SPRO__ENO.banderola */
+ado.slave('adoceansikeclptmnby', {myMaster: 'pU_mJgA18oTEzRuMvY8CekTM36B9_S7NLJ6BbX4Mzy3.e7' });
+</script>
+
+<div id="adoceansixejrcrgslt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SPRO__ENO.billboard zgoraj */
+ado.slave('adoceansixejrcrgslt', {myMaster: 'pU_mJgA18oTEzRuMvY8CekTM36B9_S7NLJ6BbX4Mzy3.e7' });
+</script>
+
+<div id="adoceansinioiqtphpp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SPRO__ENO.300x250 spodaj */
+ado.slave('adoceansinioiqtphpp', {myMaster: 'pU_mJgA18oTEzRuMvY8CekTM36B9_S7NLJ6BbX4Mzy3.e7' });
+</script>
+
+<div id="adoceansikjfpdrjmvk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SPRO__ENO.300x250 zgoraj */
+ado.slave('adoceansikjfpdrjmvk', {myMaster: 'pU_mJgA18oTEzRuMvY8CekTM36B9_S7NLJ6BbX4Mzy3.e7' });
+</script>
+
+<div id="adoceansixjmfhodrff"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SPRO__ENO.728x90 spodaj */
+ado.slave('adoceansixjmfhodrff', {myMaster: 'pU_mJgA18oTEzRuMvY8CekTM36B9_S7NLJ6BbX4Mzy3.e7' });
+</script>
+
+<div id="adoceansiukdmklnfze"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SPRO__ENO.728x90 zgoraj */
+ado.slave('adoceansiukdmklnfze', {myMaster: 'pU_mJgA18oTEzRuMvY8CekTM36B9_S7NLJ6BbX4Mzy3.e7' });
+</script>
+
+<div id="adoceansirlksnihkjz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SPRO__ENO.oglasno ozadje */
+ado.slave('adoceansirlksnihkjz', {myMaster: 'pU_mJgA18oTEzRuMvY8CekTM36B9_S7NLJ6BbX4Mzy3.e7' });
+</script>
+
+<div id="adoceansivonicpflev"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika SPRO__ENO.floater */
+ado.slave('adoceansivonicpflev', {myMaster: 'pU_mJgA18oTEzRuMvY8CekTM36B9_S7NLJ6BbX4Mzy3.e7' });
+</script>
+
+
+
+
+
+== c:panorama == 
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Rubrika PANORAMA */
+ado.master({id: '1XqRRnCYbIx.n3w4EXS6fwyoU54_pXH3iG6mYib2idT.c7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansivjdihqrnjx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika PANORAMA.banderola */
+ado.slave('adoceansivjdihqrnjx', {myMaster: '1XqRRnCYbIx.n3w4EXS6fwyoU54_pXH3iG6mYib2idT.c7' });
+</script>
+
+<div id="adoceansiskkoknlsts"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika PANORAMA.billboard zgoraj */
+ado.slave('adoceansiskkoknlsts', {myMaster: '1XqRRnCYbIx.n3w4EXS6fwyoU54_pXH3iG6mYib2idT.c7' });
+</script>
+
+<div id="adoceansilaiiopnjtb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika PANORAMA.300x250 spodaj */
+ado.slave('adoceansilaiiopnjtb', {myMaster: '1XqRRnCYbIx.n3w4EXS6fwyoU54_pXH3iG6mYib2idT.c7' });
+</script>
+
+<div id="adoceansiyapobnhodw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika PANORAMA.300x250 zgoraj */
+ado.slave('adoceansiyapobnhodw', {myMaster: '1XqRRnCYbIx.n3w4EXS6fwyoU54_pXH3iG6mYib2idT.c7' });
+</script>
+
+<div id="adoceansivbgffkrsyr"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika PANORAMA.728x90 spodaj */
+ado.slave('adoceansivbgffkrsyr', {myMaster: '1XqRRnCYbIx.n3w4EXS6fwyoU54_pXH3iG6mYib2idT.c7' });
+</script>
+
+<div id="adoceansiscnlixkhhq"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika PANORAMA.728x90 zgoraj */
+ado.slave('adoceansiscnlixkhhq', {myMaster: '1XqRRnCYbIx.n3w4EXS6fwyoU54_pXH3iG6mYib2idT.c7' });
+</script>
+
+<div id="adoceansipdesluemcl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika PANORAMA.oglasno ozadje */
+ado.slave('adoceansipdesluemcl', {myMaster: '1XqRRnCYbIx.n3w4EXS6fwyoU54_pXH3iG6mYib2idT.c7' });
+</script>
+
+<div id="adoceansilnpllurreb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika PANORAMA.floater */
+ado.slave('adoceansilnpllurreb', {myMaster: '1XqRRnCYbIx.n3w4EXS6fwyoU54_pXH3iG6mYib2idT.c7' });
+</script>
+
+
+
+
+
+== c:kolumna == 
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Rubrika KOLUMNA */
+ado.master({id: '1xwMG2u57dekgGQGutlgNVHfrhAPOhrwkS3L0NpTZr3.k7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansitonolpmjwb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika KOLUMNA.banderola */
+ado.slave('adoceansitonolpmjwb', {myMaster: '1xwMG2u57dekgGQGutlgNVHfrhAPOhrwkS3L0NpTZr3.k7' });
+</script>
+
+<div id="adoceansiqpefpmgocw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika KOLUMNA.billboard zgoraj */
+ado.slave('adoceansiqpefpmgocw', {myMaster: '1xwMG2u57dekgGQGutlgNVHfrhAPOhrwkS3L0NpTZr3.k7' });
+</script>
+
+<div id="adoceansikmeinnmsfs"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika KOLUMNA.300x250 spodaj */
+ado.slave('adoceansikmeinnmsfs', {myMaster: '1xwMG2u57dekgGQGutlgNVHfrhAPOhrwkS3L0NpTZr3.k7' });
+</script>
+
+<div id="adoceansixmloqkghor"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika KOLUMNA.300x250 zgoraj */
+ado.slave('adoceansixmloqkghor', {myMaster: '1xwMG2u57dekgGQGutlgNVHfrhAPOhrwkS3L0NpTZr3.k7' });
+</script>
+
+<div id="adoceansiuncfeiqlum"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika KOLUMNA.728x90 spodaj */
+ado.slave('adoceansiuncfeiqlum', {myMaster: '1xwMG2u57dekgGQGutlgNVHfrhAPOhrwkS3L0NpTZr3.k7' });
+</script>
+
+<div id="adoceansirojlhvjqth"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika KOLUMNA.728x90 zgoraj */
+ado.slave('adoceansirojlhvjqth', {myMaster: '1xwMG2u57dekgGQGutlgNVHfrhAPOhrwkS3L0NpTZr3.k7' });
+</script>
+
+<div id="adoceansiopqrksdfng"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika KOLUMNA.oglasno ozadje */
+ado.slave('adoceansiopqrksdfng', {myMaster: '1xwMG2u57dekgGQGutlgNVHfrhAPOhrwkS3L0NpTZr3.k7' });
+</script>
+
+<div id="adoceansiomifixhnfg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika KOLUMNA.floater */
+ado.slave('adoceansiomifixhnfg', {myMaster: '1xwMG2u57dekgGQGutlgNVHfrhAPOhrwkS3L0NpTZr3.k7' });
+</script>
+
+
+
+
+== c:za-delnicarje ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE */
+ado.master({id: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansirdifqohfqf"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE.banderola */
+ado.slave('adoceansirdifqohfqf', {myMaster: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7' });
+</script>
+
+<div id="adoceansioepldmrjaa"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE.billboard zgoraj */
+ado.slave('adoceansioepldmrjaa', {myMaster: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7' });
+</script>
+
+<div id="adoceansiqeijdkdnhi"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE.300x250 spodaj */
+ado.slave('adoceansiqeijdkdnhi', {myMaster: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7' });
+</script>
+
+<div id="adoceansinfppgxmrvd"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE.300x250 zgoraj */
+ado.slave('adoceansinfppgxmrvd', {myMaster: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7' });
+</script>
+
+<div id="adoceansikgggkugglc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE.728x90 spodaj */
+ado.slave('adoceansikgggkugglc', {myMaster: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7' });
+</script>
+
+<div id="adoceansixgnmnrqkzx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE.728x90 zgoraj */
+ado.slave('adoceansixgnmnrqkzx', {myMaster: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7' });
+</script>
+
+<div id="adoceansiuhetqokpus"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE.oglasno ozadje */
+ado.slave('adoceansiuhetqokpus', {myMaster: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7' });
+</script>
+
+<div id="adoceansiriljemeuan"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE.preroll video */
+ado.slave('adoceansiriljemeuan', {myMaster: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7' });
+</script>
+
+<div id="adoceansimbdmmwsidk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Rubrika ZA DELNI_ARJE.floater */
+ado.slave('adoceansimbdmmwsidk', {myMaster: '0d4wLK92J6xv9.JzOU0ftRiY3MkonLCTqKecQW4c3Tf.Q7' });
+</script>
+
+
+
+
+
+
+== c:gospodarstvo ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika GOSPODARSTVO */
+ado.master({id: 'OzL6QOehQ4d5a4zBaoCrHAGCAMBHH6LhkzwAoHfyPCb.f7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansirfdljkikoj"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika GOSPODARSTVO.oglasno ozadje */
+ado.slave('adoceansirfdljkikoj', {myMaster: 'OzL6QOehQ4d5a4zBaoCrHAGCAMBHH6LhkzwAoHfyPCb.f7' });
+</script>
+
+<div id="adoceansiogkrmxroce"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika GOSPODARSTVO.billboard zgoraj */
+ado.slave('adoceansiogkrmxroce', {myMaster: 'OzL6QOehQ4d5a4zBaoCrHAGCAMBHH6LhkzwAoHfyPCb.f7' });
+</script>
+
+<div id="adoceansilhrhqultxz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika GOSPODARSTVO.banderola */
+ado.slave('adoceansilhrhqultxz', {myMaster: 'OzL6QOehQ4d5a4zBaoCrHAGCAMBHH6LhkzwAoHfyPCb.f7' });
+</script>
+
+<div id="adoceansiufmmqmgnlk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika GOSPODARSTVO.728x90 spodaj */
+ado.slave('adoceansiufmmqmgnlk', {myMaster: 'OzL6QOehQ4d5a4zBaoCrHAGCAMBHH6LhkzwAoHfyPCb.f7' });
+</script>
+
+<div id="adoceansisojpojgqqa"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika GOSPODARSTVO.300x250 spodaj */
+ado.slave('adoceansisojpojgqqa', {myMaster: 'OzL6QOehQ4d5a4zBaoCrHAGCAMBHH6LhkzwAoHfyPCb.f7' });
+</script>
+
+<div id="adoceansippqfcxpuav"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika GOSPODARSTVO.300x250 zgoraj */
+ado.slave('adoceansippqfcxpuav', {myMaster: 'OzL6QOehQ4d5a4zBaoCrHAGCAMBHH6LhkzwAoHfyPCb.f7' });
+</script>
+
+<div id="adoceansimaimfujjqu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika GOSPODARSTVO.728x90 zgoraj */
+ado.slave('adoceansimaimfujjqu', {myMaster: 'OzL6QOehQ4d5a4zBaoCrHAGCAMBHH6LhkzwAoHfyPCb.f7' });
+</script>
+
+<div id="adoceansivbnrllirod"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika GOSPODARSTVO.floater */
+ado.slave('adoceansivbnrllirod', {myMaster: 'OzL6QOehQ4d5a4zBaoCrHAGCAMBHH6LhkzwAoHfyPCb.f7' });
+</script>
+
+
+
+
+
+== c:crna-kronika ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika _RNA KRONIKA */
+ado.master({id: 'ORMFWAGS7TKystpW7I_jmk3JEL4B7kOR4LfQVaOBeib.17', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansimjjshlmfye"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika _RNA KRONIKA.banderola */
+ado.slave('adoceansimjjshlmfye', {myMaster: 'ORMFWAGS7TKystpW7I_jmk3JEL4B7kOR4LfQVaOBeib.17' });
+</script>
+
+<div id="adoceansizjqiligkiz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika _RNA KRONIKA.billboard zgoraj */
+ado.slave('adoceansizjqiligkiz', {myMaster: 'ORMFWAGS7TKystpW7I_jmk3JEL4B7kOR4LfQVaOBeib.17' });
+</script>
+
+<div id="adoceansizhrhmlllqn"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika _RNA KRONIKA.300x250 spodaj */
+ado.slave('adoceansizhrhmlllqn', {myMaster: 'ORMFWAGS7TKystpW7I_jmk3JEL4B7kOR4LfQVaOBeib.17' });
+</script>
+
+<div id="adoceansiwiiopifqli"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika _RNA KRONIKA.300x250 zgoraj */
+ado.slave('adoceansiwiiopifqli', {myMaster: 'ORMFWAGS7TKystpW7I_jmk3JEL4B7kOR4LfQVaOBeib.17' });
+</script>
+
+<div id="adoceansitjpedwouvd"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika _RNA KRONIKA.728x90 spodaj */
+ado.slave('adoceansitjpedwouvd', {myMaster: 'ORMFWAGS7TKystpW7I_jmk3JEL4B7kOR4LfQVaOBeib.17' });
+</script>
+
+<div id="adoceansiqkglgtijac"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika _RNA KRONIKA.728x90 zgoraj */
+ado.slave('adoceansiqkglgtijac', {myMaster: 'ORMFWAGS7TKystpW7I_jmk3JEL4B7kOR4LfQVaOBeib.17' });
+</script>
+
+<div id="adoceansinlnrjqsnzx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika _RNA KRONIKA.oglasno ozadje */
+ado.slave('adoceansinlnrjqsnzx', {myMaster: 'ORMFWAGS7TKystpW7I_jmk3JEL4B7kOR4LfQVaOBeib.17' });
+</script>
+
+<div id="adoceansirlroekoikl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika _RNA KRONIKA.floater */
+ado.slave('adoceansirlroekoikl', {myMaster: 'ORMFWAGS7TKystpW7I_jmk3JEL4B7kOR4LfQVaOBeib.17' });
+</script>
+
+
+
+
+
+== c:ljudje == 
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika LJUDJE */
+ado.master({id: 'uP6s8JGRTTxXBoPZuKJgDeh.EL5YYEORv9I69aWzDYD.97', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansirajmgsepwt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika LJUDJE.banderola */
+ado.slave('adoceansirajmgsepwt', {myMaster: 'uP6s8JGRTTxXBoPZuKJgDeh.EL5YYEORv9I69aWzDYD.97' });
+</script>
+
+<div id="adoceansiobqsjpotvo"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika LJUDJE.billboard zgoraj */
+ado.slave('adoceansiobqsjpotvo', {myMaster: 'uP6s8JGRTTxXBoPZuKJgDeh.EL5YYEORv9I69aWzDYD.97' });
+</script>
+
+<div id="adoceansirhhgelssdj"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika LJUDJE.300x250 spodaj */
+ado.slave('adoceansirhhgelssdj', {myMaster: 'uP6s8JGRTTxXBoPZuKJgDeh.EL5YYEORv9I69aWzDYD.97' });
+</script>
+
+<div id="adoceansioiomhimhxi"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika LJUDJE.300x250 zgoraj */
+ado.slave('adoceansioiomhimhxi', {myMaster: 'uP6s8JGRTTxXBoPZuKJgDeh.EL5YYEORv9I69aWzDYD.97' });
+</script>
+
+<div id="adoceansiljftkvfmhd"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika LJUDJE.728x90 spodaj */
+ado.slave('adoceansiljftkvfmhd', {myMaster: 'uP6s8JGRTTxXBoPZuKJgDeh.EL5YYEORv9I69aWzDYD.97' });
+</script>
+
+<div id="adoceansiyjmjospqgy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika LJUDJE.728x90 zgoraj */
+ado.slave('adoceansiyjmjospqgy', {myMaster: 'uP6s8JGRTTxXBoPZuKJgDeh.EL5YYEORv9I69aWzDYD.97' });
+</script>
+
+<div id="adoceansivkdqbqjfwx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika LJUDJE.oglasno ozadje */
+ado.slave('adoceansivkdqbqjfwx', {myMaster: 'uP6s8JGRTTxXBoPZuKJgDeh.EL5YYEORv9I69aWzDYD.97' });
+</script>
+
+<div id="adoceansimecfgtfpjs"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika LJUDJE.floater */
+ado.slave('adoceansimecfgtfpjs', {myMaster: 'uP6s8JGRTTxXBoPZuKJgDeh.EL5YYEORv9I69aWzDYD.97' });
+</script>
+
+
+
+
+
+== c:politika ==
+
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika POLITIKA */
+ado.master({id: 'yjD8bsQkjYbO3V4GBUliJDzK8RCWgmdHy7INci7q_K..H7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansimgkjoojpes"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POLITIKA.banderola */
+ado.slave('adoceansimgkjoojpes', {myMaster: 'yjD8bsQkjYbO3V4GBUliJDzK8RCWgmdHy7INci7q_K..H7' });
+</script>
+
+<div id="adoceansizgrpbmduon"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POLITIKA.billboard zgoraj */
+ado.slave('adoceansizgrpbmduon', {myMaster: 'yjD8bsQkjYbO3V4GBUliJDzK8RCWgmdHy7INci7q_K..H7' });
+</script>
+
+<div id="adoceansitpnggperkx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POLITIKA.300x250 spodaj */
+ado.slave('adoceansitpnggperkx', {myMaster: 'yjD8bsQkjYbO3V4GBUliJDzK8RCWgmdHy7INci7q_K..H7' });
+</script>
+
+<div id="adoceansiqafnjmofpw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POLITIKA.300x250 zgoraj */
+ado.slave('adoceansiqafnjmofpw', {myMaster: 'yjD8bsQkjYbO3V4GBUliJDzK8RCWgmdHy7INci7q_K..H7' });
+</script>
+
+<div id="adoceansinbmtmjikzr"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POLITIKA.728x90 spodaj */
+ado.slave('adoceansinbmtmjikzr', {myMaster: 'yjD8bsQkjYbO3V4GBUliJDzK8RCWgmdHy7INci7q_K..H7' });
+</script>
+
+<div id="adoceansikcdkqwrojm"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POLITIKA.728x90 zgoraj */
+ado.slave('adoceansikcdkqwrojm', {myMaster: 'yjD8bsQkjYbO3V4GBUliJDzK8RCWgmdHy7INci7q_K..H7' });
+</script>
+
+<div id="adoceansixckqdultth"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POLITIKA.oglasno ozadje */
+ado.slave('adoceansixckqdultth', {myMaster: 'yjD8bsQkjYbO3V4GBUliJDzK8RCWgmdHy7INci7q_K..H7' });
+</script>
+
+<div id="adoceansiwfqrmnjirm"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POLITIKA.floater */
+ado.slave('adoceansiwfqrmnjirm', {myMaster: 'yjD8bsQkjYbO3V4GBUliJDzK8RCWgmdHy7INci7q_K..H7' });
+</script>
+
+
+
+
+== c:okolje == 
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika OKOLJE */
+ado.master({id: 'Yyb6VcoNQ4CrXIgZ3dN1379O.IJJhfA_0M9JmNf7v93.c7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansirnjtmvrifl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika OKOLJE.banderola */
+ado.slave('adoceansirnjtmvrifl', {myMaster: 'Yyb6VcoNQ4CrXIgZ3dN1379O.IJJhfA_0M9JmNf7v93.c7' });
+</script>
+
+<div id="adoceansiooqjqslnag"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika OKOLJE.billboard zgoraj */
+ado.slave('adoceansiooqjqslnag', {myMaster: 'Yyb6VcoNQ4CrXIgZ3dN1379O.IJJhfA_0M9JmNf7v93.c7' });
+</script>
+
+<div id="adoceansislkgfndkrs"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika OKOLJE.300x250 spodaj */
+ado.slave('adoceansislkgfndkrs', {myMaster: 'Yyb6VcoNQ4CrXIgZ3dN1379O.IJJhfA_0M9JmNf7v93.c7' });
+</script>
+
+<div id="adoceansipmrmiknoqn"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika OKOLJE.300x250 zgoraj */
+ado.slave('adoceansipmrmiknoqn', {myMaster: 'Yyb6VcoNQ4CrXIgZ3dN1379O.IJJhfA_0M9JmNf7v93.c7' });
+</script>
+
+<div id="adoceansimnitlxgtai"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika OKOLJE.728x90 spodaj */
+ado.slave('adoceansimnitlxgtai', {myMaster: 'Yyb6VcoNQ4CrXIgZ3dN1379O.IJJhfA_0M9JmNf7v93.c7' });
+</script>
+
+<div id="adoceansiznpjpuqhjh"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika OKOLJE.728x90 zgoraj */
+ado.slave('adoceansiznpjpuqhjh', {myMaster: 'Yyb6VcoNQ4CrXIgZ3dN1379O.IJJhfA_0M9JmNf7v93.c7' });
+</script>
+
+<div id="adoceansiwogqcskmpc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika OKOLJE.oglasno ozadje */
+ado.slave('adoceansiwogqcskmpc', {myMaster: 'Yyb6VcoNQ4CrXIgZ3dN1379O.IJJhfA_0M9JmNf7v93.c7' });
+</script>
+
+<div id="adoceansizejljqptxn"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika OKOLJE.floater */
+ado.slave('adoceansizejljqptxn', {myMaster: 'Yyb6VcoNQ4CrXIgZ3dN1379O.IJJhfA_0M9JmNf7v93.c7' });
+</script>
+
+
+
+
+== c:zdravje ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika ZDRAVJE */
+ado.master({id: 'pb5W1gC7QnBf6jCc547iDG.P0qWvLT6l_Q59A3g34hv.67', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansimdlqesgjuk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZDRAVJE.banderola */
+ado.slave('adoceansimdlqesgjuk', {myMaster: 'pb5W1gC7QnBf6jCc547iDG.P0qWvLT6l_Q59A3g34hv.67' });
+</script>
+
+<div id="adoceansiwejnlmksoa"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZDRAVJE.billboard zgoraj */
+ado.slave('adoceansiwejnlmksoa', {myMaster: 'pb5W1gC7QnBf6jCc547iDG.P0qWvLT6l_Q59A3g34hv.67' });
+</script>
+
+<div id="adoceansiwlhhjvhgfu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZDRAVJE.300x250 spodaj */
+ado.slave('adoceansiwlhhjvhgfu', {myMaster: 'pb5W1gC7QnBf6jCc547iDG.P0qWvLT6l_Q59A3g34hv.67' });
+</script>
+
+<div id="adoceansitmonmsrkep"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZDRAVJE.300x250 zgoraj */
+ado.slave('adoceansitmonmsrkep', {myMaster: 'pb5W1gC7QnBf6jCc547iDG.P0qWvLT6l_Q59A3g34hv.67' });
+</script>
+
+<div id="adoceansiqnfeqplpkk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZDRAVJE.728x90 spodaj */
+ado.slave('adoceansiqnfeqplpkk', {myMaster: 'pb5W1gC7QnBf6jCc547iDG.P0qWvLT6l_Q59A3g34hv.67' });
+</script>
+
+<div id="adoceansinomkdnfuff"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZDRAVJE.728x90 zgoraj */
+ado.slave('adoceansinomkdnfuff', {myMaster: 'pb5W1gC7QnBf6jCc547iDG.P0qWvLT6l_Q59A3g34hv.67' });
+</script>
+
+<div id="adoceansikpdrgkpize"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZDRAVJE.oglasno ozadje */
+ado.slave('adoceansikpdrgkpize', {myMaster: 'pb5W1gC7QnBf6jCc547iDG.P0qWvLT6l_Q59A3g34hv.67' });
+</script>
+
+<div id="adoceansiniffhvggmb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZDRAVJE.floater */
+ado.slave('adoceansiniffhvggmb', {myMaster: 'pb5W1gC7QnBf6jCc547iDG.P0qWvLT6l_Q59A3g34hv.67' });
+</script>
+
+
+
+
+== c:znanost-in-tehnologija ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika ZNANOST IN TEHNOLOGIJA */
+ado.master({id: '2H6cud6W7aCbaM7cV1hZ8YBxY6ZP7BJTfJ2G.vCbOb3.Q7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansirkkkdjpshz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZNANOST IN TEHNOLOGIJA.banderola */
+ado.slave('adoceansirkkkdjpshz', {myMaster: '2H6cud6W7aCbaM7cV1hZ8YBxY6ZP7BJTfJ2G.vCbOb3.Q7' });
+</script>
+
+<div id="adoceansiolrqgwihqy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZNANOST IN TEHNOLOGIJA.billboard zgoraj */
+ado.slave('adoceansiolrqgwihqy', {myMaster: '2H6cud6W7aCbaM7cV1hZ8YBxY6ZP7BJTfJ2G.vCbOb3.Q7' });
+</script>
+
+<div id="adoceansixpkhkxinyz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZNANOST IN TEHNOLOGIJA.300x250 spodaj */
+ado.slave('adoceansixpkhkxinyz', {myMaster: '2H6cud6W7aCbaM7cV1hZ8YBxY6ZP7BJTfJ2G.vCbOb3.Q7' });
+</script>
+
+<div id="adoceansiuaconusrtu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZNANOST IN TEHNOLOGIJA.300x250 zgoraj */
+ado.slave('adoceansiuaconusrtu', {myMaster: '2H6cud6W7aCbaM7cV1hZ8YBxY6ZP7BJTfJ2G.vCbOb3.Q7' });
+</script>
+
+<div id="adoceansirbjebsmgjt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZNANOST IN TEHNOLOGIJA.728x90 spodaj */
+ado.slave('adoceansirbjebsmgjt', {myMaster: '2H6cud6W7aCbaM7cV1hZ8YBxY6ZP7BJTfJ2G.vCbOb3.Q7' });
+</script>
+
+<div id="adoceansiocqkepglto"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZNANOST IN TEHNOLOGIJA.728x90 zgoraj */
+ado.slave('adoceansiocqkepglto', {myMaster: '2H6cud6W7aCbaM7cV1hZ8YBxY6ZP7BJTfJ2G.vCbOb3.Q7' });
+</script>
+
+<div id="adoceansildhrhmqpdj"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZNANOST IN TEHNOLOGIJA.oglasno ozadje */
+ado.slave('adoceansildhrhmqpdj', {myMaster: '2H6cud6W7aCbaM7cV1hZ8YBxY6ZP7BJTfJ2G.vCbOb3.Q7' });
+</script>
+
+<div id="adoceansikjmlksqklw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZNANOST IN TEHNOLOGIJA.floater */
+ado.slave('adoceansikjmlksqklw', {myMaster: '2H6cud6W7aCbaM7cV1hZ8YBxY6ZP7BJTfJ2G.vCbOb3.Q7' });
+</script>
+
+
+
+
+== c:intimno == 
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika INTIMNO */
+ado.master({id: '.R.1pWNYjRvA69pNL8ZTG01BE4Jm..Is3scGauDk6Rz.i7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansiwbkecqhmps"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika INTIMNO.banderola */
+ado.slave('adoceansiwbkecqhmps', {myMaster: '.R.1pWNYjRvA69pNL8ZTG01BE4Jm..Is3scGauDk6Rz.i7' });
+</script>
+
+<div id="adoceansiqdiriklftm"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika INTIMNO.billboard zgoraj */
+ado.slave('adoceansiqdiriklftm', {myMaster: '.R.1pWNYjRvA69pNL8ZTG01BE4Jm..Is3scGauDk6Rz.i7' });
+</script>
+
+<div id="adoceansiugelgpshcw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika INTIMNO.oglasno ozadje */
+ado.slave('adoceansiugelgpshcw', {myMaster: '.R.1pWNYjRvA69pNL8ZTG01BE4Jm..Is3scGauDk6Rz.i7' });
+</script>
+
+<div id="adoceansiohkjhxjgae"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika INTIMNO.728x90 spodaj */
+ado.slave('adoceansiohkjhxjgae', {myMaster: '.R.1pWNYjRvA69pNL8ZTG01BE4Jm..Is3scGauDk6Rz.i7' });
+</script>
+
+<div id="adoceansizapsirdopp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika INTIMNO.300x250 spodaj */
+ado.slave('adoceansizapsirdopp', {myMaster: '.R.1pWNYjRvA69pNL8ZTG01BE4Jm..Is3scGauDk6Rz.i7' });
+</script>
+
+<div id="adoceansiwbgjmonskk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika INTIMNO.300x250 zgoraj */
+ado.slave('adoceansiwbgjmonskk', {myMaster: '.R.1pWNYjRvA69pNL8ZTG01BE4Jm..Is3scGauDk6Rz.i7' });
+</script>
+
+<div id="adoceansitcnpplhhej"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika INTIMNO.728x90 zgoraj */
+ado.slave('adoceansitcnpplhhej', {myMaster: '.R.1pWNYjRvA69pNL8ZTG01BE4Jm..Is3scGauDk6Rz.i7' });
+</script>
+
+<div id="adoceansisceipisftc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika INTIMNO.floater */
+ado.slave('adoceansisceipisftc', {myMaster: '.R.1pWNYjRvA69pNL8ZTG01BE4Jm..Is3scGauDk6Rz.i7' });
+</script>
+
+
+
+
+
+== c:kulinarika-in-potovanja ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika KULINARIKA IN POTOVANJA */
+ado.master({id: 'U07nLgnJd6hWheaRx2EO6GAzwxavhtJNDKPPplCJsqD.w7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansiyjqeeujklg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika KULINARIKA IN POTOVANJA.banderola */
+ado.slave('adoceansiyjqeeujklg', {myMaster: 'U07nLgnJd6hWheaRx2EO6GAzwxavhtJNDKPPplCJsqD.w7' });
+</script>
+
+<div id="adoceansivkhlhrdpgb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika KULINARIKA IN POTOVANJA.billboard zgoraj */
+ado.slave('adoceansivkhlhrdpgb', {myMaster: 'U07nLgnJd6hWheaRx2EO6GAzwxavhtJNDKPPplCJsqD.w7' });
+</script>
+
+<div id="adoceansiqdegdjrlke"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika KULINARIKA IN POTOVANJA.300x250 spodaj */
+ado.slave('adoceansiqdegdjrlke', {myMaster: 'U07nLgnJd6hWheaRx2EO6GAzwxavhtJNDKPPplCJsqD.w7' });
+</script>
+
+<div id="adoceansinelmgwkqjz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika KULINARIKA IN POTOVANJA.300x250 zgoraj */
+ado.slave('adoceansinelmgwkqjz', {myMaster: 'U07nLgnJd6hWheaRx2EO6GAzwxavhtJNDKPPplCJsqD.w7' });
+</script>
+
+<div id="adoceansikfctjtefoy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika KULINARIKA IN POTOVANJA.728x90 spodaj */
+ado.slave('adoceansikfctjtefoy', {myMaster: 'U07nLgnJd6hWheaRx2EO6GAzwxavhtJNDKPPplCJsqD.w7' });
+</script>
+
+<div id="adoceansixfjjnqojnt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika KULINARIKA IN POTOVANJA.728x90 zgoraj */
+ado.slave('adoceansixfjjnqojnt', {myMaster: 'U07nLgnJd6hWheaRx2EO6GAzwxavhtJNDKPPplCJsqD.w7' });
+</script>
+
+<div id="adoceansiugqpqnioxo"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika KULINARIKA IN POTOVANJA.oglasno ozadje */
+ado.slave('adoceansiugqpqnioxo', {myMaster: 'U07nLgnJd6hWheaRx2EO6GAzwxavhtJNDKPPplCJsqD.w7' });
+</script>
+
+<div id="adoceansipdlocwlkdx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika KULINARIKA IN POTOVANJA.floater */
+ado.slave('adoceansipdlocwlkdx', {myMaster: 'U07nLgnJd6hWheaRx2EO6GAzwxavhtJNDKPPplCJsqD.w7' });
+</script>
+
+
+
+
+
+
+== c:pozitivno-in-aktivno ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika POZITIVNO IN AKTIVNO */
+ado.master({id: 'RNhap7zWUy93Mdf6g8wVBn6I4VKh2sbnhtBqm5Stqsz.D7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansiwoklitegjk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POZITIVNO IN AKTIVNO.banderola */
+ado.slave('adoceansiwoklitegjk', {myMaster: 'RNhap7zWUy93Mdf6g8wVBn6I4VKh2sbnhtBqm5Stqsz.D7' });
+</script>
+
+<div id="adoceansitprrlqokif"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POZITIVNO IN AKTIVNO.billboard zgoraj */
+ado.slave('adoceansitprrlqokif', {myMaster: 'RNhap7zWUy93Mdf6g8wVBn6I4VKh2sbnhtBqm5Stqsz.D7' });
+</script>
+
+<div id="adoceansiudrghrfiyg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POZITIVNO IN AKTIVNO.300x250 spodaj */
+ado.slave('adoceansiudrghrfiyg', {myMaster: 'RNhap7zWUy93Mdf6g8wVBn6I4VKh2sbnhtBqm5Stqsz.D7' });
+</script>
+
+<div id="adoceansireinkopmib"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POZITIVNO IN AKTIVNO.300x250 zgoraj */
+ado.slave('adoceansireinkopmib', {myMaster: 'RNhap7zWUy93Mdf6g8wVBn6I4VKh2sbnhtBqm5Stqsz.D7' });
+</script>
+
+<div id="adoceansiofptnljrsw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POZITIVNO IN AKTIVNO.728x90 spodaj */
+ado.slave('adoceansiofptnljrsw', {myMaster: 'RNhap7zWUy93Mdf6g8wVBn6I4VKh2sbnhtBqm5Stqsz.D7' });
+</script>
+
+<div id="adoceansilggkbjdgtv"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POZITIVNO IN AKTIVNO.728x90 zgoraj */
+ado.slave('adoceansilggkbjdgtv', {myMaster: 'RNhap7zWUy93Mdf6g8wVBn6I4VKh2sbnhtBqm5Stqsz.D7' });
+</script>
+
+<div id="adoceansiygnqewmkwq"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POZITIVNO IN AKTIVNO.oglasno ozadje */
+ado.slave('adoceansiygnqewmkwq', {myMaster: 'RNhap7zWUy93Mdf6g8wVBn6I4VKh2sbnhtBqm5Stqsz.D7' });
+</script>
+
+<div id="adoceansitghiqkdnxh"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika POZITIVNO IN AKTIVNO.floater */
+ado.slave('adoceansitghiqkdnxh', {myMaster: 'RNhap7zWUy93Mdf6g8wVBn6I4VKh2sbnhtBqm5Stqsz.D7' });
+</script>
+
+
+
+
+== c:zanimivosti ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika ZANIMIVOSTI */
+ado.master({id: 'S3Rc6dcenczvUkln0k6mdi4MUe8xmyd21nZ6P2RHSmH.O7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansiofdpdndlie"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZANIMIVOSTI.banderola */
+ado.slave('adoceansiofdpdndlie', {myMaster: 'S3Rc6dcenczvUkln0k6mdi4MUe8xmyd21nZ6P2RHSmH.O7' });
+</script>
+
+<div id="adoceansiygrlkxgugu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZANIMIVOSTI.billboard zgoraj */
+ado.slave('adoceansiygrlkxgugu', {myMaster: 'S3Rc6dcenczvUkln0k6mdi4MUe8xmyd21nZ6P2RHSmH.O7' });
+</script>
+
+<div id="adoceansivhehitgpcl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZANIMIVOSTI.300x250 spodaj */
+ado.slave('adoceansivhehitgpcl', {myMaster: 'S3Rc6dcenczvUkln0k6mdi4MUe8xmyd21nZ6P2RHSmH.O7' });
+</script>
+
+<div id="adoceansisilnlqqtbg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZANIMIVOSTI.300x250 zgoraj */
+ado.slave('adoceansisilnlqqtbg', {myMaster: 'S3Rc6dcenczvUkln0k6mdi4MUe8xmyd21nZ6P2RHSmH.O7' });
+</script>
+
+<div id="adoceansipjcepnkirf"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZANIMIVOSTI.728x90 spodaj */
+ado.slave('adoceansipjcepnkirf', {myMaster: 'S3Rc6dcenczvUkln0k6mdi4MUe8xmyd21nZ6P2RHSmH.O7' });
+</script>
+
+<div id="adoceansimkjkclenma"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZANIMIVOSTI.728x90 zgoraj */
+ado.slave('adoceansimkjkclenma', {myMaster: 'S3Rc6dcenczvUkln0k6mdi4MUe8xmyd21nZ6P2RHSmH.O7' });
+</script>
+
+<div id="adoceansizkqqfiorav"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZANIMIVOSTI.oglasno ozadje */
+ado.slave('adoceansizkqqfiorav', {myMaster: 'S3Rc6dcenczvUkln0k6mdi4MUe8xmyd21nZ6P2RHSmH.O7' });
+</script>
+
+<div id="adoceansiqhoodinrhc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZANIMIVOSTI.floater */
+ado.slave('adoceansiqhoodinrhc', {myMaster: 'S3Rc6dcenczvUkln0k6mdi4MUe8xmyd21nZ6P2RHSmH.O7' });
+</script>
+
+
+
+
+== c:zvezde ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si.Podrubrika ZVEZDE */
+ado.master({id: 'S71G1teh4g2UXSX.NJLGgOWzbXpdKGcNHNMVGl3GIpH.W7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansitmcjculukt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZVEZDE.banderola */
+ado.slave('adoceansitmcjculukt', {myMaster: 'S71G1teh4g2UXSX.NJLGgOWzbXpdKGcNHNMVGl3GIpH.W7' });
+</script>
+
+<div id="adoceansiqnjpfrfjes"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZVEZDE.billboard zgoraj */
+ado.slave('adoceansiqnjpfrfjes', {myMaster: 'S71G1teh4g2UXSX.NJLGgOWzbXpdKGcNHNMVGl3GIpH.W7' });
+</script>
+
+<div id="adoceansiydohljkune"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZVEZDE.300x250 spodaj */
+ado.slave('adoceansiydohljkune', {myMaster: 'S71G1teh4g2UXSX.NJLGgOWzbXpdKGcNHNMVGl3GIpH.W7' });
+</script>
+
+<div id="adoceansivefoowdjhd"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZVEZDE.300x250 zgoraj */
+ado.slave('adoceansivefoowdjhd', {myMaster: 'S71G1teh4g2UXSX.NJLGgOWzbXpdKGcNHNMVGl3GIpH.W7' });
+</script>
+
+<div id="adoceansisfmecunncy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZVEZDE.728x90 spodaj */
+ado.slave('adoceansisfmecunncy', {myMaster: 'S71G1teh4g2UXSX.NJLGgOWzbXpdKGcNHNMVGl3GIpH.W7' });
+</script>
+
+<div id="adoceansipgdlfrhsxt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZVEZDE.728x90 zgoraj */
+ado.slave('adoceansipgdlfrhsxt', {myMaster: 'S71G1teh4g2UXSX.NJLGgOWzbXpdKGcNHNMVGl3GIpH.W7' });
+</script>
+
+<div id="adoceansimhkriorggs"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZVEZDE.oglasno ozadje */
+ado.slave('adoceansimhkriorggs', {myMaster: 'S71G1teh4g2UXSX.NJLGgOWzbXpdKGcNHNMVGl3GIpH.W7' });
+</script>
+
+<div id="adoceansixjdsnpkpvr"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si.Podrubrika ZVEZDE.floater */
+ado.slave('adoceansixjdsnpkpvr', {myMaster: 'S71G1teh4g2UXSX.NJLGgOWzbXpdKGcNHNMVGl3GIpH.W7' });
+</script>
+
+
+
+== s:slovenija/crna-kronika ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  _rna kronika */
+ado.master({id: 'tjsGGDLNkho6dAAYm7v4RMvrXuWeC.tf6Bx4C9bW6mr.j7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansivjmnivkrat"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  _rna kronika.300x250 desno zgoraj */
+ado.slave('adoceansivjmnivkrat', {myMaster: 'tjsGGDLNkho6dAAYm7v4RMvrXuWeC.tf6Bx4C9bW6mr.j7' });
+</script>
+
+<div id="adoceansiracshxnsnp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  _rna kronika.300x250 pod _lankom */
+ado.slave('adoceansiracshxnsnp', {myMaster: 'tjsGGDLNkho6dAAYm7v4RMvrXuWeC.tf6Bx4C9bW6mr.j7' });
+</script>
+
+<div id="adoceansipocoeqnmfn"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  _rna kronika.banderola */
+ado.slave('adoceansipocoeqnmfn', {myMaster: 'tjsGGDLNkho6dAAYm7v4RMvrXuWeC.tf6Bx4C9bW6mr.j7' });
+</script>
+
+<div id="adoceansiocjsqjjkcg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  _rna kronika.728x90 nad komentarji */
+ado.slave('adoceansiocjsqjjkcg', {myMaster: 'tjsGGDLNkho6dAAYm7v4RMvrXuWeC.tf6Bx4C9bW6mr.j7' });
+</script>
+
+<div id="adoceansildqiexsomb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  _rna kronika.300x250 desno spodaj */
+ado.slave('adoceansildqiexsomb', {myMaster: 'tjsGGDLNkho6dAAYm7v4RMvrXuWeC.tf6Bx4C9bW6mr.j7' });
+</script>
+
+<div id="adoceansiydhphumtww"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  _rna kronika.billboard */
+ado.slave('adoceansiydhphumtww', {myMaster: 'tjsGGDLNkho6dAAYm7v4RMvrXuWeC.tf6Bx4C9bW6mr.j7' });
+</script>
+
+<div id="adoceansixgejethjwj"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  _rna kronika.floater */
+ado.slave('adoceansixgejethjwj', {myMaster: 'tjsGGDLNkho6dAAYm7v4RMvrXuWeC.tf6Bx4C9bW6mr.j7' });
+</script>
+
+<div id="adoceansilnjshthonf"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  _rna kronika.intext */
+ado.slave('adoceansilnjshthonf', {myMaster: 'tjsGGDLNkho6dAAYm7v4RMvrXuWeC.tf6Bx4C9bW6mr.j7' });
+</script>
+
+
+
+== s:slovenija/gospodarstvo ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Gospodarstvo */
+ado.master({id: 'xUiR0IBBbDb5nbGbX3oLhBei4UJQWMbnpBgteLB2qFv.m7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansitlhldidhkp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Gospodarstvo.300x250 desno zgoraj */
+ado.slave('adoceansitlhldidhkp', {myMaster: 'xUiR0IBBbDb5nbGbX3oLhBei4UJQWMbnpBgteLB2qFv.m7' });
+</script>
+
+<div id="adoceansiqmorgvmlyk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Gospodarstvo.300x250 pod _lankom */
+ado.slave('adoceansiqmorgvmlyk', {myMaster: 'xUiR0IBBbDb5nbGbX3oLhBei4UJQWMbnpBgteLB2qFv.m7' });
+</script>
+
+<div id="adoceansiylnkkiqovy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Gospodarstvo.banderola */
+ado.slave('adoceansiylnkkiqovy', {myMaster: 'xUiR0IBBbDb5nbGbX3oLhBei4UJQWMbnpBgteLB2qFv.m7' });
+</script>
+
+<div id="adoceansimkcsovgmks"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Gospodarstvo.728x90 nad komentarji */
+ado.slave('adoceansimkcsovgmks', {myMaster: 'xUiR0IBBbDb5nbGbX3oLhBei4UJQWMbnpBgteLB2qFv.m7' });
+</script>
+
+<div id="adoceansizkjictqqun"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Gospodarstvo.300x250 desno spodaj */
+ado.slave('adoceansizkjictqqun', {myMaster: 'xUiR0IBBbDb5nbGbX3oLhBei4UJQWMbnpBgteLB2qFv.m7' });
+</script>
+
+<div id="adoceansiwlqofqkfom"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Gospodarstvo.billboard */
+ado.slave('adoceansiwlqofqkfom', {myMaster: 'xUiR0IBBbDb5nbGbX3oLhBei4UJQWMbnpBgteLB2qFv.m7' });
+</script>
+
+<div id="adoceansiqepfklklxu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Gospodarstvo.floater */
+ado.slave('adoceansiqepfklklxu', {myMaster: 'xUiR0IBBbDb5nbGbX3oLhBei4UJQWMbnpBgteLB2qFv.m7' });
+</script>
+
+<div id="adoceansiukepnlkqoq"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Gospodarstvo.intext */
+ado.slave('adoceansiukepnlkqoq', {myMaster: 'xUiR0IBBbDb5nbGbX3oLhBei4UJQWMbnpBgteLB2qFv.m7' });
+</script>
+
+
+== s:slovenija/ljudje ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Ljudje */
+ado.master({id: 'vEOcx4AV7Zlw1Ak3DmQsFlzwYBRmvmL0m4kDMN859i7..7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansinnfiksgqef"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Ljudje.300x250 desno zgoraj */
+ado.slave('adoceansinnfiksgqef', {myMaster: 'vEOcx4AV7Zlw1Ak3DmQsFlzwYBRmvmL0m4kDMN859i7..7' });
+</script>
+
+<div id="adoceansikomonpquda"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Ljudje.300x250 pod _lankom */
+ado.slave('adoceansikomonpquda', {myMaster: 'vEOcx4AV7Zlw1Ak3DmQsFlzwYBRmvmL0m4kDMN859i7..7' });
+</script>
+
+<div id="adoceansivmernvjtft"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Ljudje.banderola */
+ado.slave('adoceansivmernvjtft', {myMaster: 'vEOcx4AV7Zlw1Ak3DmQsFlzwYBRmvmL0m4kDMN859i7..7' });
+</script>
+
+<div id="adoceansitmhfjnekuh"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Ljudje.300x250 desno spodaj */
+ado.slave('adoceansitmhfjnekuh', {myMaster: 'vEOcx4AV7Zlw1Ak3DmQsFlzwYBRmvmL0m4kDMN859i7..7' });
+</script>
+
+<div id="adoceansiqnolmkootc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Ljudje.728x90 nad komentarji */
+ado.slave('adoceansiqnolmkootc', {myMaster: 'vEOcx4AV7Zlw1Ak3DmQsFlzwYBRmvmL0m4kDMN859i7..7' });
+</script>
+
+<div id="adoceansinofspxhtdx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Ljudje.billboard */
+ado.slave('adoceansinofspxhtdx', {myMaster: 'vEOcx4AV7Zlw1Ak3DmQsFlzwYBRmvmL0m4kDMN859i7..7' });
+</script>
+
+<div id="adoceansinfgmnieqsp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Ljudje.floater */
+ado.slave('adoceansinfgmnieqsp', {myMaster: 'vEOcx4AV7Zlw1Ak3DmQsFlzwYBRmvmL0m4kDMN859i7..7' });
+</script>
+
+<div id="adoceansirllfbjefep"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Ljudje.intext */
+ado.slave('adoceansirllfbjefep', {myMaster: 'vEOcx4AV7Zlw1Ak3DmQsFlzwYBRmvmL0m4kDMN859i7..7' });
+</script>
+
+
+== s:slovenija/politika == 
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Politika */
+ado.master({id: 'N5c2DysdgslloQU1v7iPBRiGnNco1TBXL03c0NUUfZX.o7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansixodfbnkjtz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Politika.300x250 desno zgoraj */
+ado.slave('adoceansixodfbnkjtz', {myMaster: 'N5c2DysdgslloQU1v7iPBRiGnNco1TBXL03c0NUUfZX.o7' });
+</script>
+
+<div id="adoceansiupklekeodu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Politika.300x250 pod _lankom */
+ado.slave('adoceansiupklekeodu', {myMaster: 'N5c2DysdgslloQU1v7iPBRiGnNco1TBXL03c0NUUfZX.o7' });
+</script>
+
+<div id="adoceansisnlhbtdivs"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Politika.banderola */
+ado.slave('adoceansisnlhbtdivs', {myMaster: 'N5c2DysdgslloQU1v7iPBRiGnNco1TBXL03c0NUUfZX.o7' });
+</script>
+
+<div id="adoceansikpmidvrhiw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Politika.728x90 nad komentarji */
+ado.slave('adoceansikpmidvrhiw', {myMaster: 'N5c2DysdgslloQU1v7iPBRiGnNco1TBXL03c0NUUfZX.o7' });
+</script>
+
+<div id="adoceansixpdpgslmsr"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Politika.300x250 desno spodaj */
+ado.slave('adoceansixpdpgslmsr', {myMaster: 'N5c2DysdgslloQU1v7iPBRiGnNco1TBXL03c0NUUfZX.o7' });
+</script>
+
+<div id="adoceansirbcmnmpfsl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Politika.billboard */
+ado.slave('adoceansirbcmnmpfsl', {myMaster: 'N5c2DysdgslloQU1v7iPBRiGnNco1TBXL03c0NUUfZX.o7' });
+</script>
+
+<div id="adoceansikgnsqvnugk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Politika.floater */
+ado.slave('adoceansikgnsqvnugk', {myMaster: 'N5c2DysdgslloQU1v7iPBRiGnNco1TBXL03c0NUUfZX.o7' });
+</script>
+
+<div id="adoceansiomcmewnjdk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SLOVENIJA  Politika.intext */
+ado.slave('adoceansiomcmewnjdk', {myMaster: 'N5c2DysdgslloQU1v7iPBRiGnNco1TBXL03c0NUUfZX.o7' });
+</script>
+
+
+== s:svet ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SVET */
+ado.master({id: 'o2bsiyn7LaG7f04EvW28gGzabYU24WbP6OHIBFyBXCj.v7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansinkgpqvdkjx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SVET.300x250 desno zgoraj */
+ado.slave('adoceansinkgpqvdkjx', {myMaster: 'o2bsiyn7LaG7f04EvW28gGzabYU24WbP6OHIBFyBXCj.v7' });
+</script>
+
+<div id="adoceansiklnfetnoes"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SVET.300x250 pod _lankom */
+ado.slave('adoceansiklnfetnoes', {myMaster: 'o2bsiyn7LaG7f04EvW28gGzabYU24WbP6OHIBFyBXCj.v7' });
+</script>
+
+<div id="adoceansindnejpiior"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SVET.banderola */
+ado.slave('adoceansindnejpiior', {myMaster: 'o2bsiyn7LaG7f04EvW28gGzabYU24WbP6OHIBFyBXCj.v7' });
+</script>
+
+<div id="adoceansizelgpjluqt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SVET.300x250 desno spodaj */
+ado.slave('adoceansizelgpjluqt', {myMaster: 'o2bsiyn7LaG7f04EvW28gGzabYU24WbP6OHIBFyBXCj.v7' });
+</script>
+
+<div id="adoceansiwfcncxejvs"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SVET.728x90 nad komentarji */
+ado.slave('adoceansiwfcncxejvs', {myMaster: 'o2bsiyn7LaG7f04EvW28gGzabYU24WbP6OHIBFyBXCj.v7' });
+</script>
+
+<div id="adoceansitgjtfuonun"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SVET.billboard */
+ado.slave('adoceansitgjtfuonun', {myMaster: 'o2bsiyn7LaG7f04EvW28gGzabYU24WbP6OHIBFyBXCj.v7' });
+</script>
+
+<div id="adoceansivlopissuoj"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SVET.floater */
+ado.slave('adoceansivlopissuoj', {myMaster: 'o2bsiyn7LaG7f04EvW28gGzabYU24WbP6OHIBFyBXCj.v7' });
+</script>
+
+<div id="adoceansizbejmssjlj"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SVET.intext */
+ado.slave('adoceansizbejmssjlj', {myMaster: 'o2bsiyn7LaG7f04EvW28gGzabYU24WbP6OHIBFyBXCj.v7' });
+</script>
+
+
+== s:univerzum/okolje ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Okolje */
+ado.master({id: 'FA9QCk1r54JShWJw9vd5d_Sajy.COQ8kf0QEzaI5OwP.h7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansixlemhqhton"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Okolje.300x250 desno zgoraj */
+ado.slave('adoceansixlemhqhton', {myMaster: 'FA9QCk1r54JShWJw9vd5d_Sajy.COQ8kf0QEzaI5OwP.h7' });
+</script>
+
+<div id="adoceansiumlsknrhxm"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Okolje.300x250 pod _lankom */
+ado.slave('adoceansiumlsknrhxm', {myMaster: 'FA9QCk1r54JShWJw9vd5d_Sajy.COQ8kf0QEzaI5OwP.h7' });
+</script>
+
+<div id="adoceansikeelmmsmym"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Okolje.banderola */
+ado.slave('adoceansikeelmmsmym', {myMaster: 'FA9QCk1r54JShWJw9vd5d_Sajy.COQ8kf0QEzaI5OwP.h7' });
+</script>
+
+<div id="adoceansiqhqjjrispi"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Okolje.728x90 nad komentarji */
+ado.slave('adoceansiqhqjjrispi', {myMaster: 'FA9QCk1r54JShWJw9vd5d_Sajy.COQ8kf0QEzaI5OwP.h7' });
+</script>
+
+<div id="adoceansinihqmosgjh"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Okolje.billboard */
+ado.slave('adoceansinihqmosgjh', {myMaster: 'FA9QCk1r54JShWJw9vd5d_Sajy.COQ8kf0QEzaI5OwP.h7' });
+</script>
+
+<div id="adoceansikjogqlmlec"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Okolje.300x250 desno spodaj */
+ado.slave('adoceansikjogqlmlec', {myMaster: 'FA9QCk1r54JShWJw9vd5d_Sajy.COQ8kf0QEzaI5OwP.h7' });
+</script>
+
+<div id="adoceansismfgmpmjei"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Okolje.floater */
+ado.slave('adoceansismfgmpmjei', {myMaster: 'FA9QCk1r54JShWJw9vd5d_Sajy.COQ8kf0QEzaI5OwP.h7' });
+</script>
+
+<div id="adoceansiwclpppmove"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Okolje.intext */
+ado.slave('adoceansiwclpppmove', {myMaster: 'FA9QCk1r54JShWJw9vd5d_Sajy.COQ8kf0QEzaI5OwP.h7' });
+</script>
+
+
+== s:univerzum/zdravje == 
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Zdravje */
+ado.master({id: 'gHhKXhyD8yTE1sO5KIE13MdIcsYwhn6w_usw74sys8f.P7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansioojpbifryc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Zdravje.300x250 desno zgoraj */
+ado.slave('adoceansioojpbifryc', {myMaster: 'gHhKXhyD8yTE1sO5KIE13MdIcsYwhn6w_usw74sys8f.P7' });
+</script>
+
+<div id="adoceansilpqffvofhb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Zdravje.300x250 pod _lankom */
+ado.slave('adoceansilpqffvofhb', {myMaster: 'gHhKXhyD8yTE1sO5KIE13MdIcsYwhn6w_usw74sys8f.P7' });
+</script>
+
+<div id="adoceansixelrpjmrxh"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Zdravje.banderola */
+ado.slave('adoceansixelrpjmrxh', {myMaster: 'gHhKXhyD8yTE1sO5KIE13MdIcsYwhn6w_usw74sys8f.P7' });
+</script>
+
+<div id="adoceansixjfndjgqzx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Zdravje.billboard */
+ado.slave('adoceansixjfndjgqzx', {myMaster: 'gHhKXhyD8yTE1sO5KIE13MdIcsYwhn6w_usw74sys8f.P7' });
+</script>
+
+<div id="adoceansiukmtgwpuns"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Zdravje.728x90 nad komentarji */
+ado.slave('adoceansiukmtgwpuns', {myMaster: 'gHhKXhyD8yTE1sO5KIE13MdIcsYwhn6w_usw74sys8f.P7' });
+</script>
+
+<div id="adoceansirldkktjjdr"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Zdravje.300x250 desno spodaj */
+ado.slave('adoceansirldkktjjdr', {myMaster: 'gHhKXhyD8yTE1sO5KIE13MdIcsYwhn6w_usw74sys8f.P7' });
+</script>
+
+<div id="adoceansimodtckqsjy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Zdravje.floater */
+ado.slave('adoceansimodtckqsjy', {myMaster: 'gHhKXhyD8yTE1sO5KIE13MdIcsYwhn6w_usw74sys8f.P7' });
+</script>
+
+<div id="adoceansitdcgdngtmz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Zdravje.intext */
+ado.slave('adoceansitdcgdngtmz', {myMaster: 'gHhKXhyD8yTE1sO5KIE13MdIcsYwhn6w_usw74sys8f.P7' });
+</script>
+
+
+
+
+== s:univerzum/znanost-in-tehnologija ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Znanost in tehnologija */
+ado.master({id: 'fX035cOUJz5xI9DvhKGI0HTDo10d75HaX00GoecKyXj.l7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansiyphmisikrw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Znanost in tehnologija.300x250 desno zgoraj */
+ado.slave('adoceansiyphmisikrw', {myMaster: 'fX035cOUJz5xI9DvhKGI0HTDo10d75HaX00GoecKyXj.l7' });
+</script>
+
+<div id="adoceansivapslpsobr"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Znanost in tehnologija.300x250 pod _lankom */
+ado.slave('adoceansivapslpsobr', {myMaster: 'fX035cOUJz5xI9DvhKGI0HTDo10d75HaX00GoecKyXj.l7' });
+</script>
+
+<div id="adoceansiufcidxfgng"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Znanost in tehnologija.banderola */
+ado.slave('adoceansiufcidxfgng', {myMaster: 'fX035cOUJz5xI9DvhKGI0HTDo10d75HaX00GoecKyXj.l7' });
+</script>
+
+<div id="adoceansiomkqnqdonm"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Znanost in tehnologija.300x250 desno spodaj */
+ado.slave('adoceansiomkqnqdonm', {myMaster: 'fX035cOUJz5xI9DvhKGI0HTDo10d75HaX00GoecKyXj.l7' });
+</script>
+
+<div id="adoceansilnrgbonsih"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Znanost in tehnologija.billboard */
+ado.slave('adoceansilnrgbonsih', {myMaster: 'fX035cOUJz5xI9DvhKGI0HTDo10d75HaX00GoecKyXj.l7' });
+</script>
+
+<div id="adoceansiyninelhhcg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Znanost in tehnologija.728x90 nad komentarji */
+ado.slave('adoceansiyninelhhcg', {myMaster: 'fX035cOUJz5xI9DvhKGI0HTDo10d75HaX00GoecKyXj.l7' });
+</script>
+
+<div id="adoceansizokjgxjhsx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Znanost in tehnologija.floater */
+ado.slave('adoceansizokjgxjhsx', {myMaster: 'fX035cOUJz5xI9DvhKGI0HTDo10d75HaX00GoecKyXj.l7' });
+</script>
+
+<div id="adoceansiqejmgkqhvy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.UNIVERZUM  Znanost in tehnologija.intext */
+ado.slave('adoceansiqejmgkqhvy', {myMaster: 'fX035cOUJz5xI9DvhKGI0HTDo10d75HaX00GoecKyXj.l7' });
+</script>
+
+
+
+
+
+
+
+== s:sport ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI._PORT */
+ado.master({id: '3SbhYKNIrJCwOGcWpeuev2_dXnqpcfs9lsSYJON7iAP.t7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansimdeggxpmwg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI._PORT.300x250 desno zgoraj */
+ado.slave('adoceansimdeggxpmwg', {myMaster: '3SbhYKNIrJCwOGcWpeuev2_dXnqpcfs9lsSYJON7iAP.t7' });
+</script>
+
+<div id="adoceansizdlmjujrvb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI._PORT.300x250 pod _lankom */
+ado.slave('adoceansizdlmjujrvb', {myMaster: '3SbhYKNIrJCwOGcWpeuev2_dXnqpcfs9lsSYJON7iAP.t7' });
+</script>
+
+<div id="adoceansiohqekrjphw"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI._PORT.banderola */
+ado.slave('adoceansiohqekrjphw', {myMaster: '3SbhYKNIrJCwOGcWpeuev2_dXnqpcfs9lsSYJON7iAP.t7' });
+</script>
+
+<div id="adoceansimbfhcqojhq"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI._PORT.300x250 desno spodaj */
+ado.slave('adoceansimbfhcqojhq', {myMaster: '3SbhYKNIrJCwOGcWpeuev2_dXnqpcfs9lsSYJON7iAP.t7' });
+</script>
+
+<div id="adoceansizbmnfniogl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI._PORT.billboard */
+ado.slave('adoceansizbmnfniogl', {myMaster: '3SbhYKNIrJCwOGcWpeuev2_dXnqpcfs9lsSYJON7iAP.t7' });
+</script>
+
+<div id="adoceansiwcdejkssbg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI._PORT.728x90 nad komentarji */
+ado.slave('adoceansiwcdejkssbg', {myMaster: '3SbhYKNIrJCwOGcWpeuev2_dXnqpcfs9lsSYJON7iAP.t7' });
+</script>
+
+<div id="adoceansitajgnrnqin"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI._PORT.floater */
+ado.slave('adoceansitajgnrnqin', {myMaster: '3SbhYKNIrJCwOGcWpeuev2_dXnqpcfs9lsSYJON7iAP.t7' });
+</script>
+
+<div id="adoceansikghjnudrao"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI._PORT.intext */
+ado.slave('adoceansikghjnudrao', {myMaster: '3SbhYKNIrJCwOGcWpeuev2_dXnqpcfs9lsSYJON7iAP.t7' });
+</script>
+
+
+
+
+== s:sprosceno/intimno ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Intimno */
+ado.master({id: 'fTBMncMmPckQy_PrVV2AE38pnIypazB1qV..9oE2rt3.v7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansiobjiluhhso"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Intimno.300x250 desno zgoraj */
+ado.slave('adoceansiobjiluhhso', {myMaster: 'fTBMncMmPckQy_PrVV2AE38pnIypazB1qV..9oE2rt3.v7' });
+</script>
+
+<div id="adoceansilcqoorrlrj"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Intimno.300x250 pod _lankom */
+ado.slave('adoceansilcqoorrlrj', {myMaster: 'fTBMncMmPckQy_PrVV2AE38pnIypazB1qV..9oE2rt3.v7' });
+</script>
+
+<div id="adoceansimpjeinhrai"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Intimno.banderola */
+ado.slave('adoceansimpjeinhrai', {myMaster: 'fTBMncMmPckQy_PrVV2AE38pnIypazB1qV..9oE2rt3.v7' });
+</script>
+
+<div id="adoceansiveoflrgibv"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Intimno.300x250 desno spodaj */
+ado.slave('adoceansiveoflrgibv', {myMaster: 'fTBMncMmPckQy_PrVV2AE38pnIypazB1qV..9oE2rt3.v7' });
+</script>
+
+<div id="adoceansisffmooqmlq"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Intimno.728x90 nad komentarji */
+ado.slave('adoceansisffmooqmlq', {myMaster: 'fTBMncMmPckQy_PrVV2AE38pnIypazB1qV..9oE2rt3.v7' });
+</script>
+
+<div id="adoceansipgmsbmkrgl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Intimno.billboard */
+ado.slave('adoceansipgmsbmkrgl', {myMaster: 'fTBMncMmPckQy_PrVV2AE38pnIypazB1qV..9oE2rt3.v7' });
+</script>
+
+<div id="adoceansiuhlphqrnve"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Intimno.floater */
+ado.slave('adoceansiuhlphqrnve', {myMaster: 'fTBMncMmPckQy_PrVV2AE38pnIypazB1qV..9oE2rt3.v7' });
+</script>
+
+<div id="adoceansiynqilqrsma"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Intimno.intext */
+ado.slave('adoceansiynqilqrsma', {myMaster: 'fTBMncMmPckQy_PrVV2AE38pnIypazB1qV..9oE2rt3.v7' });
+</script>
+
+
+
+
+
+
+
+== s:sporsceno/kulinarika-in-potovanja ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Kulinarika in potovanja */
+ado.master({id: 'UkYFN5bu7V31TABnxTB2O9XdAZ9llQdnpwW9DamelmX.Y7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansiychfcplqxe"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Kulinarika in potovanja.300x250 desno zgoraj */
+ado.slave('adoceansiychfcplqxe', {myMaster: 'UkYFN5bu7V31TABnxTB2O9XdAZ9llQdnpwW9DamelmX.Y7' });
+</script>
+
+<div id="adoceansivdolfmffrd"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Kulinarika in potovanja.300x250 pod _lankom */
+ado.slave('adoceansivdolfmffrd', {myMaster: 'UkYFN5bu7V31TABnxTB2O9XdAZ9llQdnpwW9DamelmX.Y7' });
+</script>
+
+<div id="adoceansizpqklkrfyh"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Kulinarika in potovanja.banderola */
+ado.slave('adoceansizpqklkrfyh', {myMaster: 'UkYFN5bu7V31TABnxTB2O9XdAZ9llQdnpwW9DamelmX.Y7' });
+</script>
+
+<div id="adoceansimhdjfjegwk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Kulinarika in potovanja.300x250 desno spodaj */
+ado.slave('adoceansimhdjfjegwk', {myMaster: 'UkYFN5bu7V31TABnxTB2O9XdAZ9llQdnpwW9DamelmX.Y7' });
+</script>
+
+<div id="adoceansizhkpiwnkzf"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Kulinarika in potovanja.728x90 nad komentarji */
+ado.slave('adoceansizhkpiwnkzf', {myMaster: 'UkYFN5bu7V31TABnxTB2O9XdAZ9llQdnpwW9DamelmX.Y7' });
+</script>
+
+<div id="adoceansitjimpqrtev"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Kulinarika in potovanja.billboard */
+ado.slave('adoceansitjimpqrtev', {myMaster: 'UkYFN5bu7V31TABnxTB2O9XdAZ9llQdnpwW9DamelmX.Y7' });
+</script>
+
+<div id="adoceansiricglnlsbz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Kulinarika in potovanja.floater */
+ado.slave('adoceansiricglnlsbz', {myMaster: 'UkYFN5bu7V31TABnxTB2O9XdAZ9llQdnpwW9DamelmX.Y7' });
+</script>
+
+<div id="adoceansivohponlhrz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Kulinarika in potovanja.intext */
+ado.slave('adoceansivohponlhrz', {myMaster: 'UkYFN5bu7V31TABnxTB2O9XdAZ9llQdnpwW9DamelmX.Y7' });
+</script>
+
+
+== s:sprosceno/pozitivno-in-aktivno ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Pozitivno in aktivno */
+ado.master({id: 'qHz8FG6ejRxVon7rnLifTdix4QKI.8eXlWaKggBSPFX.d7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansisefsijpjby"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Pozitivno in aktivno.300x250 desno zgoraj */
+ado.slave('adoceansisefsijpjby', {myMaster: 'qHz8FG6ejRxVon7rnLifTdix4QKI.8eXlWaKggBSPFX.d7' });
+</script>
+
+<div id="adoceansipfmimwiolt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Pozitivno in aktivno.300x250 pod _lankom */
+ado.slave('adoceansipfmimwiolt', {myMaster: 'qHz8FG6ejRxVon7rnLifTdix4QKI.8eXlWaKggBSPFX.d7' });
+</script>
+
+<div id="adoceansiwairoxkktc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Pozitivno in aktivno.banderola */
+ado.slave('adoceansiwairoxkktc', {myMaster: 'qHz8FG6ejRxVon7rnLifTdix4QKI.8eXlWaKggBSPFX.d7' });
+</script>
+
+<div id="adoceansinlgjglfnpp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Pozitivno in aktivno.300x250 desno spodaj */
+ado.slave('adoceansinlgjglfnpp', {myMaster: 'qHz8FG6ejRxVon7rnLifTdix4QKI.8eXlWaKggBSPFX.d7' });
+</script>
+
+<div id="adoceansikmnpjiprok"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Pozitivno in aktivno.728x90 nad komentarji */
+ado.slave('adoceansikmnpjiprok', {myMaster: 'qHz8FG6ejRxVon7rnLifTdix4QKI.8eXlWaKggBSPFX.d7' });
+</script>
+
+<div id="adoceansixmegnvigij"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Pozitivno in aktivno.billboard */
+ado.slave('adoceansixmegnvigij', {myMaster: 'qHz8FG6ejRxVon7rnLifTdix4QKI.8eXlWaKggBSPFX.d7' });
+</script>
+
+<div id="adoceansiojjmokfhvy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Pozitivno in aktivno.floater */
+ado.slave('adoceansiojjmokfhvy', {myMaster: 'qHz8FG6ejRxVon7rnLifTdix4QKI.8eXlWaKggBSPFX.d7' });
+</script>
+
+<div id="adoceansispofclfmxu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Pozitivno in aktivno.intext */
+ado.slave('adoceansispofclfmxu', {myMaster: 'qHz8FG6ejRxVon7rnLifTdix4QKI.8eXlWaKggBSPFX.d7' });
+</script>
+
+
+
+
+== s:sprosceno/zanimivosti ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zanimivosti */
+ado.master({id: 'KH2hq95JzMdLJOdHLQWOWEhsbXnIqWcNUogys3L5hMv.K7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansimgdpptssvo"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zanimivosti.300x250 desno zgoraj */
+ado.slave('adoceansimgdpptssvo', {myMaster: 'KH2hq95JzMdLJOdHLQWOWEhsbXnIqWcNUogys3L5hMv.K7' });
+</script>
+
+<div id="adoceansizgkfdrmhan"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zanimivosti.300x250 pod _lankom */
+ado.slave('adoceansizgkfdrmhan', {myMaster: 'KH2hq95JzMdLJOdHLQWOWEhsbXnIqWcNUogys3L5hMv.K7' });
+</script>
+
+<div id="adoceansitbphcvepzx"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zanimivosti.banderola */
+ado.slave('adoceansitbphcvepzx', {myMaster: 'KH2hq95JzMdLJOdHLQWOWEhsbXnIqWcNUogys3L5hMv.K7' });
+</script>
+
+<div id="adoceansiroctdqmpnz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zanimivosti.728x90 nad komentarji */
+ado.slave('adoceansiroctdqmpnz', {myMaster: 'KH2hq95JzMdLJOdHLQWOWEhsbXnIqWcNUogys3L5hMv.K7' });
+</script>
+
+<div id="adoceansiopjjhnguiu"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zanimivosti.billboard */
+ado.slave('adoceansiopjjhnguiu', {myMaster: 'KH2hq95JzMdLJOdHLQWOWEhsbXnIqWcNUogys3L5hMv.K7' });
+</script>
+
+<div id="adoceansiyaigoxjnmo"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zanimivosti.300x250 desno spodaj */
+ado.slave('adoceansiyaigoxjnmo', {myMaster: 'KH2hq95JzMdLJOdHLQWOWEhsbXnIqWcNUogys3L5hMv.K7' });
+</script>
+
+<div id="adoceansilkqsbiplft"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zanimivosti.floater */
+ado.slave('adoceansilkqsbiplft', {myMaster: 'KH2hq95JzMdLJOdHLQWOWEhsbXnIqWcNUogys3L5hMv.K7' });
+</script>
+
+<div id="adoceansipagmfipqsp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zanimivosti.intext */
+ado.slave('adoceansipagmfipqsp', {myMaster: 'KH2hq95JzMdLJOdHLQWOWEhsbXnIqWcNUogys3L5hMv.K7' });
+</script>
+
+
+
+
+== s:sprosceno/zvezde ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zvezde */
+ado.master({id: 'kW5WoU8oQf5E1cWLj655.hkSrokA1xtDUg8IlxJRWoL.y7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansitiisjlqqud"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zvezde.300x250 desno zgoraj */
+ado.slave('adoceansitiisjlqqud', {myMaster: 'kW5WoU8oQf5E1cWLj655.hkSrokA1xtDUg8IlxJRWoL.y7' });
+</script>
+
+<div id="adoceansiqjpinikfzc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zvezde.300x250 pod _lankom */
+ado.slave('adoceansiqjpinikfzc', {myMaster: 'kW5WoU8oQf5E1cWLj655.hkSrokA1xtDUg8IlxJRWoL.y7' });
+</script>
+
+<div id="adoceansiqcgofsotjs"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zvezde.banderola */
+ado.slave('adoceansiqcgofsotjs', {myMaster: 'kW5WoU8oQf5E1cWLj655.hkSrokA1xtDUg8IlxJRWoL.y7' });
+</script>
+
+<div id="adoceansiscgtesngbi"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zvezde.300x250 desno spodaj */
+ado.slave('adoceansiscgtesngbi', {myMaster: 'kW5WoU8oQf5E1cWLj655.hkSrokA1xtDUg8IlxJRWoL.y7' });
+</script>
+
+<div id="adoceansipdnjiphlwd"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zvezde.billboard */
+ado.slave('adoceansipdnjiphlwd', {myMaster: 'kW5WoU8oQf5E1cWLj655.hkSrokA1xtDUg8IlxJRWoL.y7' });
+</script>
+
+<div id="adoceansimeeqlmrpgy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zvezde.728x90 nad komentarji */
+ado.slave('adoceansimeeqlmrpgy', {myMaster: 'kW5WoU8oQf5E1cWLj655.hkSrokA1xtDUg8IlxJRWoL.y7' });
+</script>
+
+<div id="adoceansiykhjfviqpo"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zvezde.floater */
+ado.slave('adoceansiykhjfviqpo', {myMaster: 'kW5WoU8oQf5E1cWLj655.hkSrokA1xtDUg8IlxJRWoL.y7' });
+</script>
+
+<div id="adoceansimbnsivifbo"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.SPRO__ENO  Zvezde.intext */
+ado.slave('adoceansimbnsivifbo', {myMaster: 'kW5WoU8oQf5E1cWLj655.hkSrokA1xtDUg8IlxJRWoL.y7' });
+</script>
+
+
+
+
+
+== s:panorama ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.PANORAMA */
+ado.master({id: 'WxYHkpeiN30.BlrO_J6UJvzQ7432bc9vVc5RsX573TX.l7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansizjjomnpnzv"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.PANORAMA.300x250 desno zgoraj */
+ado.slave('adoceansizjjomnpnzv', {myMaster: 'WxYHkpeiN30.BlrO_J6UJvzQ7432bc9vVc5RsX573TX.l7' });
+</script>
+
+<div id="adoceansiwkqeqkjsuq"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.PANORAMA.300x250 pod _lankom */
+ado.slave('adoceansiwkqeqkjsuq', {myMaster: 'WxYHkpeiN30.BlrO_J6UJvzQ7432bc9vVc5RsX573TX.l7' });
+</script>
+
+<div id="adoceansillgehlgkhd"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.PANORAMA.banderola */
+ado.slave('adoceansillgehlgkhd', {myMaster: 'WxYHkpeiN30.BlrO_J6UJvzQ7432bc9vVc5RsX573TX.l7' });
+</script>
+
+<div id="adoceansiljokhqilbv"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.PANORAMA.300x250 desno spodaj */
+ado.slave('adoceansiljokhqilbv', {myMaster: 'WxYHkpeiN30.BlrO_J6UJvzQ7432bc9vVc5RsX573TX.l7' });
+</script>
+
+<div id="adoceansiyjfrknspaq"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.PANORAMA.728x90 nad komentarji */
+ado.slave('adoceansiyjfrknspaq', {myMaster: 'WxYHkpeiN30.BlrO_J6UJvzQ7432bc9vVc5RsX573TX.l7' });
+</script>
+
+<div id="adoceansivkmhokmuvl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.PANORAMA.billboard */
+ado.slave('adoceansivkmhokmuvl', {myMaster: 'WxYHkpeiN30.BlrO_J6UJvzQ7432bc9vVc5RsX573TX.l7' });
+</script>
+
+<div id="adoceansitdipgoqgcz"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.PANORAMA.floater */
+ado.slave('adoceansitdipgoqgcz', {myMaster: 'WxYHkpeiN30.BlrO_J6UJvzQ7432bc9vVc5RsX573TX.l7' });
+</script>
+
+<div id="adoceansixjnikoqltv"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.PANORAMA.intext */
+ado.slave('adoceansixjnikoqltv', {myMaster: 'WxYHkpeiN30.BlrO_J6UJvzQ7432bc9vVc5RsX573TX.l7' });
+</script>
+
+
+== s:kolumna ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.KOLUMNA */
+ado.master({id: 'X.WmYa.m8sO.1FT5ycY5kpBjz8JPGo9d03uU0HMJ6Z3.g7', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansipilrftluvb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.KOLUMNA.300x250 desno zgoraj */
+ado.slave('adoceansipilrftluvb', {myMaster: 'X.WmYa.m8sO.1FT5ycY5kpBjz8JPGo9d03uU0HMJ6Z3.g7' });
+</script>
+
+<div id="adoceansimjcijqfjla"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.KOLUMNA.300x250 pod _lankom */
+ado.slave('adoceansimjcijqfjla', {myMaster: 'X.WmYa.m8sO.1FT5ycY5kpBjz8JPGo9d03uU0HMJ6Z3.g7' });
+</script>
+
+<div id="adoceansiokpndomfbi"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.KOLUMNA.banderola */
+ado.slave('adoceansiokpndomfbi', {myMaster: 'X.WmYa.m8sO.1FT5ycY5kpBjz8JPGo9d03uU0HMJ6Z3.g7' });
+</script>
+
+<div id="adoceansiugjhnilncg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.KOLUMNA.300x250 desno spodaj */
+ado.slave('adoceansiugjhnilncg', {myMaster: 'X.WmYa.m8sO.1FT5ycY5kpBjz8JPGo9d03uU0HMJ6Z3.g7' });
+</script>
+
+<div id="adoceansirhqnqvesbb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.KOLUMNA.728x90 nad komentarji */
+ado.slave('adoceansirhqnqvesbb', {myMaster: 'X.WmYa.m8sO.1FT5ycY5kpBjz8JPGo9d03uU0HMJ6Z3.g7' });
+</script>
+
+<div id="adoceansioiheetogra"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.KOLUMNA.billboard */
+ado.slave('adoceansioiheetogra', {myMaster: 'X.WmYa.m8sO.1FT5ycY5kpBjz8JPGo9d03uU0HMJ6Z3.g7' });
+</script>
+
+<div id="adoceansiwcridrgsia"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.KOLUMNA.floater */
+ado.slave('adoceansiwcridrgsia', {myMaster: 'X.WmYa.m8sO.1FT5ycY5kpBjz8JPGo9d03uU0HMJ6Z3.g7' });
+</script>
+
+<div id="adoceansikjgsgrghua"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.KOLUMNA.intext */
+ado.slave('adoceansikjgsgrghua', {myMaster: 'X.WmYa.m8sO.1FT5ycY5kpBjz8JPGo9d03uU0HMJ6Z3.g7' });
+</script>
+
+
+
+
+
+== s:za-delnicarje ==
+
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, MASTER: nova24tv.si.nova24tv.si._LANKI.ZA DELNI_ARJE */
+ado.master({id: '.i9F9dZkPTJH0E8aXEuZnCwmIBcOWuMi5QxTwk_YNfj.67', server: 'si.adocean.pl' });
+</script>
+
+<div id="adoceansisbgjpmmthm"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.ZA DELNI_ARJE.300x250 desno zgoraj */
+ado.slave('adoceansisbgjpmmthm', {myMaster: '.i9F9dZkPTJH0E8aXEuZnCwmIBcOWuMi5QxTwk_YNfj.67' });
+</script>
+
+<div id="adoceansipcnpckgiml"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.ZA DELNI_ARJE.300x250 pod _lankom */
+ado.slave('adoceansipcnpckgiml', {myMaster: '.i9F9dZkPTJH0E8aXEuZnCwmIBcOWuMi5QxTwk_YNfj.67' });
+</script>
+
+<div id="adoceansirgjogupkmb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.ZA DELNI_ARJE.banderola */
+ado.slave('adoceansirgjogupkmb', {myMaster: '.i9F9dZkPTJH0E8aXEuZnCwmIBcOWuMi5QxTwk_YNfj.67' });
+</script>
+
+<div id="adoceansivopthirlbb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.ZA DELNI_ARJE.billboard */
+ado.slave('adoceansivopthirlbb', {myMaster: '.i9F9dZkPTJH0E8aXEuZnCwmIBcOWuMi5QxTwk_YNfj.67' });
+</script>
+
+<div id="adoceansispgklvkqww"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.ZA DELNI_ARJE.728x90 nad komentarji */
+ado.slave('adoceansispgklvkqww', {myMaster: '.i9F9dZkPTJH0E8aXEuZnCwmIBcOWuMi5QxTwk_YNfj.67' });
+</script>
+
+<div id="adoceansipaoqosefbv"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.ZA DELNI_ARJE.300x250 desno spodaj */
+ado.slave('adoceansipaoqosefbv', {myMaster: '.i9F9dZkPTJH0E8aXEuZnCwmIBcOWuMi5QxTwk_YNfj.67' });
+</script>
+
+<div id="adoceansiwprpjudmcs"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2017, nova24tv.si.nova24tv.si._LANKI.ZA DELNI_ARJE.floater */
+ado.slave('adoceansiwprpjudmcs', {myMaster: '.i9F9dZkPTJH0E8aXEuZnCwmIBcOWuMi5QxTwk_YNfj.67' });
+</script>
+
+<div id="adoceansinfqsjxjmut"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2021, nova24tv.si.nova24tv.si._LANKI.ZA DELNI_ARJE.intext */
+ado.slave('adoceansinfqsjxjmut', {myMaster: '.i9F9dZkPTJH0E8aXEuZnCwmIBcOWuMi5QxTwk_YNfj.67' });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
